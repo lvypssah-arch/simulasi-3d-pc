@@ -1,0 +1,61 @@
+
+# ==========================================
+# UNITY GENERATED FOLDERS
+# ==========================================
+
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+[Mm]emoryCaptures/
+[Rr]ecordings/
+[Aa]ssets/AssetStoreTools*
+.utmp/
+
+# ==========================================
+# IDE GENERATED FILES
+# ==========================================
+
+.vs/
+.vscode/
+.idea/
+
+# ==========================================
+# VISUAL STUDIO GENERATED FILES
+# ==========================================
+
+*.csproj
+*.unityproj
+*.sln
+*.slnx
+*.suo
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.opendb
+*.VC.db
+*.mdb
+
+# ==========================================
+# BUILD OUTPUT FILES
+# ==========================================
+
+*.apk
+*.aab
+
+# Optional: ignore exported Unity packages
+*.unitypackage
+
+# ==========================================
+# OPERATING SYSTEM FILES
+# ==========================================
+
+.DS_Store
+Thumbs.db
+Desktop.ini
