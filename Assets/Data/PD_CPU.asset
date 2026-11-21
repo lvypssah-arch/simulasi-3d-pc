@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f19cc55c1a1686941bdbb0467a4308f4, type: 3}
+  m_Name: PD_CPU
+  m_EditorClassIdentifier: 
+  type: 2
+  displayName: CPU
+  description: Otak komputer, memproses semua instruksi.
+  specs: '6 inti 12 thread, 4,4 GHz
+
+    TDP 65 W, soket LGA1700
+
+'
+  icon: {fileID: 21300000, guid: 83ae555792790954da43632e8d6cab84, type: 3}
+  prefab: {fileID: 2486988647374932861, guid: bbcceb252ab6d194d8e76de90d548c43, type: 3}
+  copies: 1

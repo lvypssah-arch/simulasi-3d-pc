@@ -1,0 +1,166 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &7110165559331072878
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: -8679921383154817045, guid: 9b901bf8e7e27ef43ba6dbc716f229cb,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 9b901bf8e7e27ef43ba6dbc716f229cb,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 9b901bf8e7e27ef43ba6dbc716f229cb,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 9b901bf8e7e27ef43ba6dbc716f229cb,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 9b901bf8e7e27ef43ba6dbc716f229cb,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 9b901bf8e7e27ef43ba6dbc716f229cb,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 9b901bf8e7e27ef43ba6dbc716f229cb,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 9b901bf8e7e27ef43ba6dbc716f229cb,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 9b901bf8e7e27ef43ba6dbc716f229cb,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 9b901bf8e7e27ef43ba6dbc716f229cb,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 9b901bf8e7e27ef43ba6dbc716f229cb,
+        type: 3}
+      propertyPath: m_Name
+      value: GPU i7
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 919132149155446097, guid: 9b901bf8e7e27ef43ba6dbc716f229cb,
+        type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 4226885976369087300}
+    - targetCorrespondingSourceObject: {fileID: 4151471654365851841, guid: 9b901bf8e7e27ef43ba6dbc716f229cb,
+        type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 7102008475000459501}
+    - targetCorrespondingSourceObject: {fileID: 4465160024637144864, guid: 9b901bf8e7e27ef43ba6dbc716f229cb,
+        type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 410247957369686214}
+    - targetCorrespondingSourceObject: {fileID: 2955792285992783363, guid: 9b901bf8e7e27ef43ba6dbc716f229cb,
+        type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 7023336191810696181}
+  m_SourcePrefab: {fileID: 100100000, guid: 9b901bf8e7e27ef43ba6dbc716f229cb, type: 3}
+--- !u!1 &5452016967988127085 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 2955792285992783363, guid: 9b901bf8e7e27ef43ba6dbc716f229cb,
+    type: 3}
+  m_PrefabInstance: {fileID: 7110165559331072878}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &7023336191810696181
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5452016967988127085}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 05a43dc3c9b60424cbf90619c0fa3d92, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  axis: {x: 0, y: 0, z: 1}
+  degreesPerSecond: 900
+--- !u!1 &6570924062236826543 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 4151471654365851841, guid: 9b901bf8e7e27ef43ba6dbc716f229cb,
+    type: 3}
+  m_PrefabInstance: {fileID: 7110165559331072878}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &7102008475000459501
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6570924062236826543}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 05a43dc3c9b60424cbf90619c0fa3d92, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  axis: {x: 0, y: 0, z: 1}
+  degreesPerSecond: 900
+--- !u!1 &6871101621546275918 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 4465160024637144864, guid: 9b901bf8e7e27ef43ba6dbc716f229cb,
+    type: 3}
+  m_PrefabInstance: {fileID: 7110165559331072878}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &410247957369686214
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6871101621546275918}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 05a43dc3c9b60424cbf90619c0fa3d92, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  axis: {x: 0, y: 0, z: 1}
+  degreesPerSecond: 900
+--- !u!1 &7957025145966040639 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 919132149155446097, guid: 9b901bf8e7e27ef43ba6dbc716f229cb,
+    type: 3}
+  m_PrefabInstance: {fileID: 7110165559331072878}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &4226885976369087300
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7957025145966040639}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 05a43dc3c9b60424cbf90619c0fa3d92, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  axis: {x: 0, y: 0, z: 1}
+  degreesPerSecond: 900

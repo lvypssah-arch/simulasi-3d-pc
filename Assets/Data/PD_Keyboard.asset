@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f19cc55c1a1686941bdbb0467a4308f4, type: 3}
+  m_Name: PD_Keyboard
+  m_EditorClassIdentifier: 
+  type: 11
+  displayName: Keyboard
+  description: Perangkat input utama untuk mengetik dan perintah.
+  specs: Mechanical TKL, USB, 87 tombol, lampu latar LED
+  icon: {fileID: 21300000, guid: aadd099f03328344da9069fe5d00d0b9, type: 3}
+  prefab: {fileID: 282867374423326854, guid: 678e913f7b6855249aa390646559fee8, type: 3}
+  copies: 1
