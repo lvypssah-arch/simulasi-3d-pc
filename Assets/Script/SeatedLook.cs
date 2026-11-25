@@ -13,14 +13,22 @@ public class SeatedLook : MonoBehaviour
     public float startYaw = 0f;
     float yaw, pitch;
     Vector3 basePos, shakeOffset;
- 
-    void Awake()
+    public bool useTransformAsStart = false;   // centang jika ingin memakai rotasi kamera dari editor
+
+void Awake()
+{
+    I = this;
+    if (useTransformAsStart)
     {
-        I = this;
-        yaw = startYaw;
-        pitch = startPitch;
-        basePos = cam.localPosition;
+        Vector3 e = cam.localEulerAngles;
+        startPitch = Mathf.DeltaAngle(0f, e.x);
+        startYaw = Mathf.DeltaAngle(0f, e.y);
     }
+    yaw = startYaw;
+    pitch = startPitch;
+    basePos = cam.localPosition;
+}
+  
  
     void Update()
     {

@@ -186,6 +186,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Casing i5
       objectReference: {fileID: 0}
+    - target: {fileID: 3643557720392900190, guid: 47578f0cc4d886d48bac996bf2a5f2aa,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects:

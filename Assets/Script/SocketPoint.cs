@@ -1,20 +1,20 @@
 using System.Collections;
 using UnityEngine;
- 
+
 [RequireComponent(typeof(BoxCollider))]
 public class SocketPoint : MonoBehaviour
 {
     public PartType accepts;
     public string friendlyName = "slot";
     public SocketPoint[] requires;           // slot yang HARUS terisi lebih dulu
- 
+
     public GameObject installed { get; private set; }
     public bool Occupied { get { return installed != null; } }
- 
+
     GameObject ghost;
     Material ghostMat;
     Color ghostColor = Color.cyan;
- 
+
     // Mengembalikan slot "akar masalah" yang belum terisi (null = semua prasyarat beres)
     public SocketPoint MissingRequirement()
     {
@@ -27,18 +27,18 @@ public class SocketPoint : MonoBehaviour
         }
         return null;
     }
- 
+
     public void ShowGhost(GameObject prefab, Material template, Color color)
     {
         HideGhost();
         ghost = Instantiate(prefab, transform);
         ghost.name = "Hologram";
         ghost.transform.localPosition = Vector3.zero;
-        ghost.transform.localRotation = Quaternion.identity;
-        ghost.transform.localScale = Vector3.one;
+        ghost.transform.localRotation = prefab.transform.localRotation;
+        ghost.transform.localScale = prefab.transform.localScale;
         foreach (var c in ghost.GetComponentsInChildren<Collider>()) c.enabled = false;
         foreach (var b in ghost.GetComponentsInChildren<MonoBehaviour>()) b.enabled = false;
- 
+
         ghostMat = new Material(template);
         foreach (var r in ghost.GetComponentsInChildren<Renderer>())
         {
@@ -49,7 +49,7 @@ public class SocketPoint : MonoBehaviour
         }
         ghostColor = color;
     }
- 
+
     public void HideGhost()
     {
         if (ghost != null) Destroy(ghost);
@@ -57,7 +57,7 @@ public class SocketPoint : MonoBehaviour
         ghost = null;
         ghostMat = null;
     }
- 
+
     void Update()
     {
         if (ghostMat == null) return;
@@ -66,18 +66,18 @@ public class SocketPoint : MonoBehaviour
         c.a = Mathf.Lerp(0.25f, 0.6f, pulse);
         ghostMat.SetColor("_BaseColor", c);
     }
- 
-    public void Install(GameObject part)
+
+    public void Install(GameObject part, Quaternion targetRot)
     {
         installed = part;
         HideGhost();
         part.transform.SetParent(transform, true);
-        StartCoroutine(Snap(part.transform));
+        StartCoroutine(Snap(part.transform, targetRot));
     }
- 
-    IEnumerator Snap(Transform t)
+
+    IEnumerator Snap(Transform t, Quaternion targetRot)
     {
-        Vector3 p0 = t.localPosition;
+        Vector3 p0 = t.localPosition, sBase = t.localScale;
         Quaternion r0 = t.localRotation;
         float time = 0f, dur = 0.3f;
         while (time < dur)
@@ -86,15 +86,15 @@ public class SocketPoint : MonoBehaviour
             float k = Mathf.Clamp01(time / dur);
             float e = 1f - Mathf.Pow(1f - k, 3f);
             t.localPosition = Vector3.LerpUnclamped(p0, Vector3.zero, e);
-            t.localRotation = Quaternion.Slerp(r0, Quaternion.identity, e);
-            t.localScale = Vector3.one * (1f + 0.06f * Mathf.Sin(k * Mathf.PI));
+            t.localRotation = Quaternion.Slerp(r0, targetRot, e);
+            t.localScale = sBase * (1f + 0.06f * Mathf.Sin(k * Mathf.PI));
             yield return null;
         }
         t.localPosition = Vector3.zero;
-        t.localRotation = Quaternion.identity;
-        t.localScale = Vector3.one;
+        t.localRotation = targetRot;
+        t.localScale = sBase;
     }
- 
+
     void OnDrawGizmos()
     {
         var b = GetComponent<BoxCollider>();

@@ -64,7 +64,8 @@ PrefabInstance:
       value: "Kingston FURY Beast 16GB (2 \xD7 8GB) DDR4-3200"
       objectReference: {fileID: 0}
     m_RemovedComponents: []
-    m_RemovedGameObjects: []
+    m_RemovedGameObjects:
+    - {fileID: 65702495048144492, guid: f53f2412b33d57844967bd8acfa1490d, type: 3}
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: f53f2412b33d57844967bd8acfa1490d, type: 3}
