@@ -1,0 +1,4 @@
+=== MISSING SCRIPT ===
+--- Di scene ---
+--- Di prefab ---
+Tidak ada missing script.

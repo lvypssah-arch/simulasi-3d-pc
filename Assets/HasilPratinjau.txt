@@ -1,0 +1,16 @@
+=== CEK PRATINJAU ===
+Permukaan meja y = 1.169
+Batas casing: (-0.599, 1.169, 0.968) sampai (-0.196, 1.619, 1.181)
+RAM2_Socket (RAM): di dalam casing OK
+RAM1_Socket (RAM): di dalam casing OK
+GPU_Socket (GPU): di dalam casing OK
+Mobo_Socket (Mobo): di dalam casing OK
+Keyboard_Socket (Keyboard): dasar 0.000 m dari meja  OK
+Fan_Socket (Fan): di dalam casing OK
+SSD_Socket (SSD): di dalam casing OK
+CPU_Socket (CPU): di dalam casing OK
+Power_Socket (Cable): di dalam casing OK
+Mouse_Socket (Mouse): dasar 0.000 m dari meja  OK
+PSU_Socket (PSU): di dalam casing OK
+Cooler_Socket (Cooler): di dalam casing OK
+Case_Socket (Case): dasar 0.000 m dari meja  OK

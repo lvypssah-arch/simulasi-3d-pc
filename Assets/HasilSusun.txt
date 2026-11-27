@@ -1,0 +1,10 @@
+=== HASIL SUSUN SLOT (bingkai casing) ===
+Bagian dalam casing: (-0.204, 0.010, -0.093) sampai (0.180, 0.440, 0.100)
+PSU    pivot (0.068, 0.010, 0.003)  di dalam casing OK
+Mobo   pivot (0.042, 0.234, -0.081)  di dalam casing OK
+Fan    pivot (0.165, 0.370, 0.004)  di dalam casing OK
+RAM1   pivot (-0.037, 0.234, -0.073)  di dalam casing OK
+RAM2   pivot (0.006, 0.234, -0.073)  di dalam casing OK
+GPU    pivot (0.041, 0.119, -0.005)  di dalam casing OK
+SSD    pivot (0.087, 0.197, -0.077)  di dalam casing OK
+Kabel  pivot (0.120, 0.335, -0.062)  di dalam casing OK

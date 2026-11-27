@@ -14,8 +14,8 @@ public class SocketPoint : MonoBehaviour
     GameObject ghost;
     Material ghostMat;
     Color ghostColor = Color.cyan;
+    float ghostStrength = 1f;
 
-    // Mengembalikan slot "akar masalah" yang belum terisi (null = semua prasyarat beres)
     public SocketPoint MissingRequirement()
     {
         if (requires == null) return null;
@@ -28,14 +28,27 @@ public class SocketPoint : MonoBehaviour
         return null;
     }
 
-    public void ShowGhost(GameObject prefab, Material template, Color color)
+    Vector3 LocalScaleForWorld(Vector3 world)
+    {
+        Vector3 p = transform.lossyScale;
+        return new Vector3(
+            Mathf.Abs(p.x) > 1e-5f ? world.x / p.x : world.x,
+            Mathf.Abs(p.y) > 1e-5f ? world.y / p.y : world.y,
+            Mathf.Abs(p.z) > 1e-5f ? world.z / p.z : world.z);
+    }
+
+    // strength: 1 = terang (langkah berikutnya), <1 = redup
+    public void ShowGhost(GameObject prefab, Material template, Color color, float strength = 1f)
     {
         HideGhost();
+        if (prefab == null || template == null) return;
+
         ghost = Instantiate(prefab, transform);
+                PartSanitizer.Strip(ghost, true);
         ghost.name = "Hologram";
         ghost.transform.localPosition = Vector3.zero;
         ghost.transform.localRotation = prefab.transform.localRotation;
-        ghost.transform.localScale = prefab.transform.localScale;
+        ghost.transform.localScale = LocalScaleForWorld(prefab.transform.localScale);
         foreach (var c in ghost.GetComponentsInChildren<Collider>()) c.enabled = false;
         foreach (var b in ghost.GetComponentsInChildren<MonoBehaviour>()) b.enabled = false;
 
@@ -48,6 +61,7 @@ public class SocketPoint : MonoBehaviour
             r.shadowCastingMode = UnityEngine.Rendering.ShadowCastingMode.Off;
         }
         ghostColor = color;
+        ghostStrength = Mathf.Clamp01(strength);
     }
 
     public void HideGhost()
@@ -61,9 +75,10 @@ public class SocketPoint : MonoBehaviour
     void Update()
     {
         if (ghostMat == null) return;
-        float pulse = 0.5f + 0.5f * Mathf.Sin(Time.unscaledTime * 4f);
+        float speed = ghostStrength >= 0.99f ? 5f : 3f;
+        float pulse = 0.5f + 0.5f * Mathf.Sin(Time.unscaledTime * speed);
         Color c = ghostColor;
-        c.a = Mathf.Lerp(0.25f, 0.6f, pulse);
+        c.a = Mathf.Lerp(0.25f, 0.65f, pulse) * ghostStrength;
         ghostMat.SetColor("_BaseColor", c);
     }
 
@@ -82,6 +97,7 @@ public class SocketPoint : MonoBehaviour
         float time = 0f, dur = 0.3f;
         while (time < dur)
         {
+            if (t == null) yield break;
             time += Time.deltaTime;
             float k = Mathf.Clamp01(time / dur);
             float e = 1f - Mathf.Pow(1f - k, 3f);
@@ -90,6 +106,7 @@ public class SocketPoint : MonoBehaviour
             t.localScale = sBase * (1f + 0.06f * Mathf.Sin(k * Mathf.PI));
             yield return null;
         }
+        if (t == null) yield break;
         t.localPosition = Vector3.zero;
         t.localRotation = targetRot;
         t.localScale = sBase;

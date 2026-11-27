@@ -1,20 +1,22 @@
 using UnityEngine;
- 
+
 public class PointerInteractor : MonoBehaviour
 {
     public Camera cam;
     public LayerMask clickableMask;
-    public float maxDistance = 5f;
- 
+    public float maxDistance = 8f;
+
     Clickable3D current;
- 
+
     void Update()
     {
         if (Time.timeScale == 0f) return;
- 
+        if (cam == null) cam = Camera.main;
+        if (cam == null) return;
+
         bool blocked = Util.PointerOverUI() ||
                        (AssemblyManager.I != null && AssemblyManager.I.IsHolding);
- 
+
         Clickable3D hit = null;
         if (!blocked)
         {
@@ -24,14 +26,14 @@ public class PointerInteractor : MonoBehaviour
                                 QueryTriggerInteraction.Collide))
                 hit = h.collider.GetComponentInParent<Clickable3D>();
         }
- 
+
         if (hit != current)
         {
             if (current != null) current.SetHover(false);
             current = hit;
             if (current != null) current.SetHover(true);
         }
- 
+
         if (current != null && Input.GetMouseButtonDown(0)) current.Press();
     }
 }

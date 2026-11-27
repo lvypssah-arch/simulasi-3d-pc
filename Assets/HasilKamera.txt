@@ -1,0 +1,37 @@
+=== CAMERA DAN AUDIOLISTENER BAWAAN MODEL ===
+[MASALAH] PD_Case: 1 Camera, 0 AudioListener
+   Import Cameras dimatikan pada Assets/Models/Casing i5.fbx
+PD_Mobo: bersih
+[MASALAH] PD_PSU: 1 Camera, 0 AudioListener
+   Import Cameras dimatikan pada Assets/Models/PSU i5.fbx
+[MASALAH] PD_SSD: 1 Camera, 0 AudioListener
+   Import Cameras dimatikan pada Assets/Models/SSD i5.fbx
+[MASALAH] PD_Fan: 1 Camera, 0 AudioListener
+   Import Cameras dimatikan pada Assets/Models/Kipas Casing i5.fbx
+[MASALAH] PD_CPU: 1 Camera, 0 AudioListener
+   Import Cameras dimatikan pada Assets/Models/CPU i5.fbx
+[MASALAH] PD_Cooler: 1 Camera, 0 AudioListener
+   Import Cameras dimatikan pada Assets/Models/Cooler CPU i5.fbx
+PD_RAM: bersih
+[MASALAH] PD_GPU: 1 Camera, 0 AudioListener
+   Import Cameras dimatikan pada Assets/Models/GPU i5.fbx
+[MASALAH] PD_Cable: 1 Camera, 0 AudioListener
+   Import Cameras dimatikan pada Assets/Models/Cable power i5.fbx
+[MASALAH] PD_Keyboard: 1 Camera, 0 AudioListener
+   Import Cameras dimatikan pada Assets/Models/keyboard.fbx
+[MASALAH] PD_Mouse: 1 Camera, 0 AudioListener
+   Import Cameras dimatikan pada Assets/Models/mouse.fbx
+--- Kamera di scene ---
+AssemblyStation/AssemblyRoot/Mouse_Socket/Hologram/Kamera (aktif), depth 0
+AssemblyStation/AssemblyRoot/Keyboard_Socket/Hologram/Kamera (aktif), depth 0
+AssemblyStation/AssemblyRoot/Fan_Socket/Hologram/Kamera (aktif), depth 0
+AssemblyStation/AssemblyRoot/SSD_Socket/Hologram/Kamera (aktif), depth 0
+AssemblyStation/AssemblyRoot/PSU_Socket/Hologram/Kamera (aktif), depth 0
+AssemblyStation/AssemblyRoot/Mobo_Socket/GPU_Socket/Hologram/Kamera (mati), depth 0
+AssemblyStation/AssemblyRoot/Mobo_Socket/CPU_Socket/Hologram/Kamera (aktif), depth 0
+AssemblyStation/AssemblyRoot/Case_Socket/Casing (dipegang)/Kamera (mati), depth 0
+Environment/lingkungan white office/Camera (mati), depth 0
+AssemblyStation/Monitor/Camera (mati), depth 0
+AssemblyStation/Player/Main_Camera (aktif), depth 0 [MainCamera]
+AudioListener aktif di scene: 1 (harus 1)
+10 prefab bermasalah, sudah diperbaiki di atas.

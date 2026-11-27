@@ -1,0 +1,54 @@
+=== CEK RAKITPC ===
+Permukaan meja: y = 1.169, luas 10.28 m2 (kotak x*z 10.28 m2), x -4.68 sampai 0.46, z -0.49 sampai 1.51 (1 mesh, hanya sisi atas). Lapisan terbesar: y 1.170 = 10.28 m2; y 0.870 = 6.42 m2; y 0.405 = 6.42 m2; 
+Case_Socket (Case): dasar 0.000 m dari permukaan meja
+Mouse_Socket (Mouse): dasar 0.000 m dari permukaan meja
+Keyboard_Socket (Keyboard): dasar 0.000 m dari permukaan meja
+Btn_Parts: ukuran (0.140, 0.030, 0.080) m, pusat (-0.89, 1.18, 1.31)
+Btn_Parts: dasar 0.000 m dari permukaan meja
+Btn_Hint: ukuran (0.140, 0.030, 0.080) m, pusat (-0.66, 1.18, 1.31)
+Btn_Hint: dasar 0.000 m dari permukaan meja
+Btn_Reset: ukuran (0.140, 0.030, 0.080) m, pusat (-0.44, 1.18, 1.31)
+Btn_Reset: dasar 0.000 m dari permukaan meja
+Monitor: ukuran (1.400, 0.866, 0.338) m, pusat (-2.31, 1.60, 0.15)
+Monitor: dasar 0.000 m dari permukaan meja
+Jarak Keyboard ke Mouse: 0.30 m
+Kamera dunia (-1.31, 1.82, 2.95), rotasi (15, 180, 0), FOV 65, near 0.05
+Tinggi kamera di atas meja: 0.65 m (wajar 0.45 - 0.9)
+AssemblyRoot: dunia (-0.39, 1.17, 1.07), jarak 1.98 m, posisi layar (0.31, 0.45)
+Btn_Parts: dunia (-0.89, 1.17, 1.31), jarak 1.75 m, posisi layar (0.40, 0.41)
+Btn_Hint: dunia (-0.66, 1.17, 1.31), jarak 1.75 m, posisi layar (0.34, 0.41)
+Btn_Reset: dunia (-0.44, 1.17, 1.31), jarak 1.75 m, posisi layar (0.29, 0.41)
+PartsPanel: dunia (-1.96, 1.77, 1.98), jarak 0.95 m, posisi layar (0.78, 0.67)
+PartsPanel ukuran dunia 0.37 x 0.46 m (unit canvas 420 x 520)
+SocketPoint di scene: 13
+ - Case_Socket (Case) dunia (-0.39, 1.17, 1.07)
+ - Cooler_Socket (Cooler) dunia (-0.30, 1.45, 1.00)
+ - PSU_Socket (PSU) dunia (-0.32, 1.18, 1.07)
+ - Mouse_Socket (Mouse) dunia (-0.14, 1.17, 1.37)
+ - Power_Socket (Cable) dunia (-0.27, 1.50, 1.01)
+ - CPU_Socket (CPU) dunia (-0.30, 1.45, 1.00)
+ - SSD_Socket (SSD) dunia (-0.30, 1.37, 0.99)
+ - Fan_Socket (Fan) dunia (-0.22, 1.54, 1.07)
+ - Keyboard_Socket (Keyboard) dunia (0.16, 1.17, 1.38)
+ - Mobo_Socket (Mobo) dunia (-0.34, 1.40, 0.99)
+ - GPU_Socket (GPU) dunia (-0.34, 1.29, 1.07)
+ - RAM1_Socket (RAM) dunia (-0.42, 1.40, 1.00)
+ - RAM2_Socket (RAM) dunia (-0.38, 1.40, 1.00)
+PD_Case: ukuran (0.404, 0.450, 0.213) m | pivot ke pusat (-0.012, 0.225, 0.004) | dasar 0.000 | rot (0, 0, 0) | scale (1.00, 1.00, 1.00)
+PD_Mobo: ukuran (0.208, 0.036, 0.236) m | pivot ke pusat (0.004, 0.010, 0.000) | dasar -0.008 | rot (0, 0, 0) | scale (1.00, 1.00, 1.00)
+PD_PSU: ukuran (0.183, 0.094, 0.151) m | pivot ke pusat (0.018, 0.047, 0.000) | dasar 0.000 | rot (0, 0, 0) | scale (1.00, 1.00, 1.00)
+PD_SSD: ukuran (0.080, 0.002, 0.022) m | pivot ke pusat (0.000, 0.001, 0.000) | dasar 0.000 | rot (0, 0, 0) | scale (1.00, 1.00, 1.00)
+PD_Fan: ukuran (0.120, 0.025, 0.120) m | pivot ke pusat (0.000, 0.000, 0.000) | dasar -0.013 | rot (0, 0, 0) | scale (1.00, 1.00, 1.00)
+PD_CPU: ukuran (0.038, 0.004, 0.045) m | pivot ke pusat (0.000, 0.002, 0.000) | dasar 0.000 | rot (0, 0, 0) | scale (1.00, 1.00, 1.00)
+PD_Cooler: ukuran (0.120, 0.156, 0.075) m | pivot ke pusat (0.000, 0.078, 0.013) | dasar 0.000 | rot (0, 0, 0) | scale (1.00, 1.00, 1.00)
+PD_RAM: ukuran (0.133, 0.007, 0.035) m | pivot ke pusat (0.000, 0.000, -0.002) | dasar -0.003 | rot (0, 0, 0) | scale (1.00, 1.00, 1.00)
+PD_GPU: ukuran (0.200, 0.050, 0.135) m | pivot ke pusat (0.001, 0.023, -0.002) | dasar -0.002 | rot (0, 0, 0) | scale (1.00, 1.00, 1.00)
+PD_Cable: ukuran (0.244, 0.016, 0.049) m | pivot ke pusat (-0.100, 0.001, 0.006) | dasar -0.007 | rot (0, 0, 0) | scale (1.00, 1.00, 1.00)
+PD_Keyboard: ukuran (0.442, 0.041, 0.210) m | pivot ke pusat (0.000, 0.021, -0.036) | dasar 0.000 | rot (0, 0, 0) | scale (1.00, 1.00, 1.00)
+PD_Mouse: ukuran (0.064, 0.039, 0.182) m | pivot ke pusat (0.000, 0.019, -0.030) | dasar 0.000 | rot (0, 0, 0) | scale (1.00, 1.00, 1.00)
+(info) PD_Monitor ada di project tetapi tidak dipakai di Parts, diabaikan.
+Total langkah (jumlah copies) 13, jumlah slot 13
+Teks 3D: "PARTS" di AssemblyStation/Btn_Parts/Label (ukuran font 0.4)
+Teks 3D: "HINT" di AssemblyStation/Btn_Hint/Label (ukuran font 0.55)
+Teks 3D: "RESET" di AssemblyStation/Btn_Reset/Label (ukuran font 0.35)
+Teks 3D: "NO SIGNAL" di AssemblyStation/Monitor/Monitor_Screen/Monitor_Text (ukuran font 1.4)
