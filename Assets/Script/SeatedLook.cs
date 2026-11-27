@@ -75,6 +75,7 @@ public class SeatedLook : MonoBehaviour
         if (!enabled) return;
         camComp = cam.GetComponent<Camera>();
         if (camComp != null) baseFov = camComp.fieldOfView;
+        rotateSpeed *= PlayerPrefs.GetFloat("cam_sens", 1f);
 
         // pusat pandang: pusat semua slot perakitan
         Vector3 center;
