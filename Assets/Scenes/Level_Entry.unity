@@ -1502,6 +1502,134 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 210783845}
   m_CullTransparentMesh: 1
+--- !u!1 &222692328
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 222692330}
+  - component: {fileID: 222692329}
+  m_Layer: 0
+  m_Name: Music_BGM
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!82 &222692329
+AudioSource:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 222692328}
+  m_Enabled: 1
+  serializedVersion: 4
+  OutputAudioMixerGroup: {fileID: 0}
+  m_audioClip: {fileID: 8300000, guid: 50b68d73ec0803040919d1f8e4e7e751, type: 3}
+  m_PlayOnAwake: 1
+  m_Volume: 0.2
+  m_Pitch: 1
+  Loop: 1
+  Mute: 0
+  Spatialize: 0
+  SpatializePostEffects: 0
+  Priority: 128
+  DopplerLevel: 1
+  MinDistance: 1
+  MaxDistance: 500
+  Pan2D: 0
+  rolloffMode: 0
+  BypassEffects: 0
+  BypassListenerEffects: 0
+  BypassReverbZones: 0
+  rolloffCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    - serializedVersion: 3
+      time: 1
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  panLevelCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  spreadCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  reverbZoneMixCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+--- !u!4 &222692330
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 222692328}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -2.9300003, y: 4.1900005, z: -2.29}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &243191354
 GameObject:
   m_ObjectHideFlags: 0
@@ -4725,6 +4853,10 @@ MonoBehaviour:
   hintButtonUI: {fileID: 75709866}
   focusOnHold: 1
   lockUnavailableParts: 1
+  orientationMode: 0
+  rotateSpeed: 120
+  matchTolerance: 25
+  penaltyWrongOrientation: 20
   cam: {fileID: 1767312241}
   socketMask:
     serializedVersion: 2
@@ -4773,12 +4905,12 @@ MonoBehaviour:
   screenOnMaterial: {fileID: 2100000, guid: ac2c90048ffb6b646b641b0421de5484, type: 2}
   monitorText: {fileID: 2123099896}
   sfx: {fileID: 945653490}
-  clipPick: {fileID: 0}
-  clipPlace: {fileID: 0}
-  clipError: {fileID: 0}
-  clipPower: {fileID: 0}
-  clipWin: {fileID: 0}
-  clipFail: {fileID: 0}
+  clipPick: {fileID: 8300000, guid: b45e1bfdb47fcb544bbf142dff762127, type: 3}
+  clipPlace: {fileID: 8300000, guid: a88099023a6cd2543a54a5a3682b6aaf, type: 3}
+  clipError: {fileID: 8300000, guid: 9f9bb19feab1c444fa98f2fac9ac06cb, type: 3}
+  clipPower: {fileID: 8300000, guid: 19fba83a59e31914fa3ec4bfcd4e6301, type: 3}
+  clipWin: {fileID: 8300000, guid: 2f27a0e6633efc742887baa49537fae1, type: 3}
+  clipFail: {fileID: 8300000, guid: 0bbf388c3faa2554aa6a41f6a79944d7, type: 3}
   snapFx: {fileID: 0}
 --- !u!1 &949595170
 GameObject:
@@ -6964,15 +7096,21 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cam: {fileID: 1767312238}
-  sensitivity: 2
+  pivotOverride: {fileID: 0}
+  useTransformAsStart: 1
+  startZoom: 0.6
+  startMinPitch: 22
+  rotateSpeed: 3
   yawLimit: 55
   pitchLimit: {x: -5, y: 55}
-  startPitch: 22
-  startYaw: 0
-  useTransformAsStart: 1
+  zoomSpeed: 0.18
+  minDistance: 0.45
+  maxDistanceFactor: 1.6
+  panSpeed: 1
+  panRadius: 1.2
+  smooth: 12
   focusFovDrop: 10
-  focusLook: 0.6
-  focusMaxTurn: 15
+  focusPull: 0.3
   focusSpeed: 4
 --- !u!1 &1394246560
 GameObject:
@@ -9862,3 +10000,4 @@ SceneRoots:
   - {fileID: 1119150250}
   - {fileID: 1302633356}
   - {fileID: 434437833}
+  - {fileID: 222692330}
