@@ -162,11 +162,7 @@ public class AssemblyManager : MonoBehaviour
         Validate();
         WarnStrayCameras();
 
-        if (guideFromStart && showHologram)
-            hud.Toast("Hologram menunjukkan tempat pemasangan. Pilih komponen di panel kiri, lalu klik hologramnya."
-                      + NextText(), HUDController.Tone.Info, 6f);
-        else
-            hud.Toast("Buka daftar komponen dengan tombol PARTS.", HUDController.Tone.Info, 5f);
+        // Petunjuk awal tidak lagi ditampilkan sebagai toast; semua kontrol ada di panel Panduan (tombol ? / H).
 
         RefreshHolograms();
         if (openPanelAtStart) panel.SetOpen(true);
@@ -358,8 +354,7 @@ public class AssemblyManager : MonoBehaviour
         if (!rotateHintShown)
         {
             rotateHintShown = true;
-            hud.Toast("Putar komponen: Q/E, R/F, Z/X (atau PgUp/PgDn, Home/End, Ins/Del). Shift = halus, Alt = 90 derajat, T = reset.",
-                      HUDController.Tone.Info, 6f);
+            // petunjuk rotasi ada di panel Panduan (tombol ? / H)
         }
         if (closePanelOnPick) panel.SetOpen(false);
         Play(clipPick);

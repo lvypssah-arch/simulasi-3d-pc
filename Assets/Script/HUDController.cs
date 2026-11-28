@@ -40,10 +40,23 @@ public class HUDController : MonoBehaviour
     public Color successColor = new Color(0.13f, 0.70f, 0.40f, 0.92f);
     public Color errorColor = new Color(0.85f, 0.15f, 0.20f, 0.95f);
  
+    [Header("Posisi toast (pesan singkat)")]
+    public bool moveToastToBottom = true;
+    public Vector2 toastBottomOffset = new Vector2(0f, 250f);   // dari tepi bawah layar, di atas tombol PARTS/HINT/RESET
+
     Coroutine toastRoutine, flashRoutine;
  
     public void Init(string title, int totalSteps, int maxMistakes)
     {
+        if (moveToastToBottom && toastGroup != null)
+        {
+            var tr = toastGroup.transform as RectTransform;
+            if (tr != null)
+            {
+                tr.anchorMin = new Vector2(0.5f, 0f); tr.anchorMax = new Vector2(0.5f, 0f);
+                tr.anchoredPosition = toastBottomOffset;
+            }
+        }
         levelText.text = title;
         SetProgress(0, totalSteps);
         SetScore(0);
@@ -118,6 +131,13 @@ public class HUDController : MonoBehaviour
                            int starCount, bool hasNext, string reason)
     {
         holdPanel.SetActive(false);
+        // Result Screen baru (ResultScreen.cs). Panel lama di scene tidak lagi dipakai.
+        if (ResultScreen.I != null)
+        {
+            ResultScreen.I.Show(this, win, levelText != null ? levelText.text : "", score, mistakes, time,
+                                starCount, hasNext, reason);
+            return;
+        }
         resultPanel.SetActive(true);
         resultTitle.text = win ? "PC MENYALA! SELAMAT" : "LEVEL GAGAL";
         resultBody.text = (win ? "" : reason + "\n")
@@ -129,8 +149,16 @@ public class HUDController : MonoBehaviour
     }
  
     // ---- dipanggil dari OnClick tombol UI ----
-    public void OnMenuButton()     { pausePanel.SetActive(true); Time.timeScale = 0f; }
-    public void OnResumeButton()   { pausePanel.SetActive(false); Time.timeScale = 1f; }
+    public void OnMenuButton()
+    {
+        if (PauseMenu.I != null) { PauseMenu.I.Open(); return; }
+        pausePanel.SetActive(true); Time.timeScale = 0f;
+    }
+    public void OnResumeButton()
+    {
+        if (PauseMenu.I != null) { PauseMenu.I.Close(); return; }
+        pausePanel.SetActive(false); Time.timeScale = 1f;
+    }
     public void OnRestartButton()
     {
         Time.timeScale = 1f;

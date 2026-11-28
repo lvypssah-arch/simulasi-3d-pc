@@ -1,0 +1,1249 @@
+D:\Github\simulasi-3d-pc\Assets\Abu abu metalik.mat
+D:\Github\simulasi-3d-pc\Assets\Abu abu metalik.mat.meta
+D:\Github\simulasi-3d-pc\Assets\Audio
+D:\Github\simulasi-3d-pc\Assets\Audio.meta
+D:\Github\simulasi-3d-pc\Assets\Data
+D:\Github\simulasi-3d-pc\Assets\Data.meta
+D:\Github\simulasi-3d-pc\Assets\Editor
+D:\Github\simulasi-3d-pc\Assets\Editor.meta
+D:\Github\simulasi-3d-pc\Assets\Fonts
+D:\Github\simulasi-3d-pc\Assets\Fonts.meta
+D:\Github\simulasi-3d-pc\Assets\Fx
+D:\Github\simulasi-3d-pc\Assets\Fx.meta
+D:\Github\simulasi-3d-pc\Assets\GlobalVolume_FX Profile.asset
+D:\Github\simulasi-3d-pc\Assets\GlobalVolume_FX Profile.asset.meta
+D:\Github\simulasi-3d-pc\Assets\HasilCek.txt
+D:\Github\simulasi-3d-pc\Assets\HasilCek.txt.meta
+D:\Github\simulasi-3d-pc\Assets\HasilKamera.txt
+D:\Github\simulasi-3d-pc\Assets\HasilKamera.txt.meta
+D:\Github\simulasi-3d-pc\Assets\HasilMissing.txt
+D:\Github\simulasi-3d-pc\Assets\HasilMissing.txt.meta
+D:\Github\simulasi-3d-pc\Assets\HasilPratinjau.txt
+D:\Github\simulasi-3d-pc\Assets\HasilPratinjau.txt.meta
+D:\Github\simulasi-3d-pc\Assets\HasilSusun.txt
+D:\Github\simulasi-3d-pc\Assets\HasilSusun.txt.meta
+D:\Github\simulasi-3d-pc\Assets\Icons
+D:\Github\simulasi-3d-pc\Assets\Icons.meta
+D:\Github\simulasi-3d-pc\Assets\Materials
+D:\Github\simulasi-3d-pc\Assets\Materials.meta
+D:\Github\simulasi-3d-pc\Assets\Mat_Blue.mat
+D:\Github\simulasi-3d-pc\Assets\Mat_Blue.mat.meta
+D:\Github\simulasi-3d-pc\Assets\Mat_logo.mat
+D:\Github\simulasi-3d-pc\Assets\Mat_logo.mat.meta
+D:\Github\simulasi-3d-pc\Assets\Mat_PCB.mat
+D:\Github\simulasi-3d-pc\Assets\Mat_PCB.mat.meta
+D:\Github\simulasi-3d-pc\Assets\Models
+D:\Github\simulasi-3d-pc\Assets\Models.meta
+D:\Github\simulasi-3d-pc\Assets\Prefabs
+D:\Github\simulasi-3d-pc\Assets\Prefabs.meta
+D:\Github\simulasi-3d-pc\Assets\Readme.asset
+D:\Github\simulasi-3d-pc\Assets\Readme.asset.meta
+D:\Github\simulasi-3d-pc\Assets\Samples
+D:\Github\simulasi-3d-pc\Assets\Samples.meta
+D:\Github\simulasi-3d-pc\Assets\Scenes
+D:\Github\simulasi-3d-pc\Assets\Scenes.meta
+D:\Github\simulasi-3d-pc\Assets\Script
+D:\Github\simulasi-3d-pc\Assets\Script.meta
+D:\Github\simulasi-3d-pc\Assets\Settings
+D:\Github\simulasi-3d-pc\Assets\Settings.meta
+D:\Github\simulasi-3d-pc\Assets\TextMesh Pro
+D:\Github\simulasi-3d-pc\Assets\TextMesh Pro.meta
+D:\Github\simulasi-3d-pc\Assets\Textures
+D:\Github\simulasi-3d-pc\Assets\Textures.meta
+D:\Github\simulasi-3d-pc\Assets\TutorialInfo
+D:\Github\simulasi-3d-pc\Assets\TutorialInfo.meta
+D:\Github\simulasi-3d-pc\Assets\UI
+D:\Github\simulasi-3d-pc\Assets\UI.meta
+D:\Github\simulasi-3d-pc\Assets\UniversalRenderPipelineGlobalSettings.asset
+D:\Github\simulasi-3d-pc\Assets\UniversalRenderPipelineGlobalSettings.asset.meta
+D:\Github\simulasi-3d-pc\Assets\XR
+D:\Github\simulasi-3d-pc\Assets\XR.meta
+D:\Github\simulasi-3d-pc\Assets\XRI
+D:\Github\simulasi-3d-pc\Assets\XRI.meta
+D:\Github\simulasi-3d-pc\Assets\Audio\attach komponen.wav
+D:\Github\simulasi-3d-pc\Assets\Audio\attach komponen.wav.meta
+D:\Github\simulasi-3d-pc\Assets\Audio\boy-nayeon-instrumental-128-ytshorts.savetube.me.mp3
+D:\Github\simulasi-3d-pc\Assets\Audio\boy-nayeon-instrumental-128-ytshorts.savetube.me.mp3.meta
+D:\Github\simulasi-3d-pc\Assets\Audio\error.wav
+D:\Github\simulasi-3d-pc\Assets\Audio\error.wav.meta
+D:\Github\simulasi-3d-pc\Assets\Audio\level fail.mp3
+D:\Github\simulasi-3d-pc\Assets\Audio\level fail.mp3.meta
+D:\Github\simulasi-3d-pc\Assets\Audio\pick.wav
+D:\Github\simulasi-3d-pc\Assets\Audio\pick.wav.meta
+D:\Github\simulasi-3d-pc\Assets\Audio\power up.mp3
+D:\Github\simulasi-3d-pc\Assets\Audio\power up.mp3.meta
+D:\Github\simulasi-3d-pc\Assets\Audio\win game.wav
+D:\Github\simulasi-3d-pc\Assets\Audio\win game.wav.meta
+D:\Github\simulasi-3d-pc\Assets\Data\PD_Cable.asset
+D:\Github\simulasi-3d-pc\Assets\Data\PD_Cable.asset.meta
+D:\Github\simulasi-3d-pc\Assets\Data\PD_Case.asset
+D:\Github\simulasi-3d-pc\Assets\Data\PD_Case.asset.meta
+D:\Github\simulasi-3d-pc\Assets\Data\PD_Cooler.asset
+D:\Github\simulasi-3d-pc\Assets\Data\PD_Cooler.asset.meta
+D:\Github\simulasi-3d-pc\Assets\Data\PD_CPU.asset
+D:\Github\simulasi-3d-pc\Assets\Data\PD_CPU.asset.meta
+D:\Github\simulasi-3d-pc\Assets\Data\PD_Fan.asset
+D:\Github\simulasi-3d-pc\Assets\Data\PD_Fan.asset.meta
+D:\Github\simulasi-3d-pc\Assets\Data\PD_GPU.asset
+D:\Github\simulasi-3d-pc\Assets\Data\PD_GPU.asset.meta
+D:\Github\simulasi-3d-pc\Assets\Data\PD_Keyboard.asset
+D:\Github\simulasi-3d-pc\Assets\Data\PD_Keyboard.asset.meta
+D:\Github\simulasi-3d-pc\Assets\Data\PD_Mobo.asset
+D:\Github\simulasi-3d-pc\Assets\Data\PD_Mobo.asset.meta
+D:\Github\simulasi-3d-pc\Assets\Data\PD_Monitor.asset
+D:\Github\simulasi-3d-pc\Assets\Data\PD_Monitor.asset.meta
+D:\Github\simulasi-3d-pc\Assets\Data\PD_Mouse.asset
+D:\Github\simulasi-3d-pc\Assets\Data\PD_Mouse.asset.meta
+D:\Github\simulasi-3d-pc\Assets\Data\PD_PSU.asset
+D:\Github\simulasi-3d-pc\Assets\Data\PD_PSU.asset.meta
+D:\Github\simulasi-3d-pc\Assets\Data\PD_RAM.asset
+D:\Github\simulasi-3d-pc\Assets\Data\PD_RAM.asset.meta
+D:\Github\simulasi-3d-pc\Assets\Data\PD_SSD.asset
+D:\Github\simulasi-3d-pc\Assets\Data\PD_SSD.asset.meta
+D:\Github\simulasi-3d-pc\Assets\Editor\GameplayUISkinInstaller.cs
+D:\Github\simulasi-3d-pc\Assets\Editor\GameplayUISkinInstaller.cs.meta
+D:\Github\simulasi-3d-pc\Assets\Editor\HudRaycastCleaner.cs
+D:\Github\simulasi-3d-pc\Assets\Editor\HudRaycastCleaner.cs.meta
+D:\Github\simulasi-3d-pc\Assets\Editor\IconGenerator.cs
+D:\Github\simulasi-3d-pc\Assets\Editor\IconGenerator.cs.meta
+D:\Github\simulasi-3d-pc\Assets\Editor\MissingScriptTools.cs
+D:\Github\simulasi-3d-pc\Assets\Editor\MissingScriptTools.cs.meta
+D:\Github\simulasi-3d-pc\Assets\Editor\ModelCheckTools.cs
+D:\Github\simulasi-3d-pc\Assets\Editor\ModelCheckTools.cs.meta
+D:\Github\simulasi-3d-pc\Assets\Editor\New Material.mat
+D:\Github\simulasi-3d-pc\Assets\Editor\New Material.mat.meta
+D:\Github\simulasi-3d-pc\Assets\Editor\SceneCheck.cs
+D:\Github\simulasi-3d-pc\Assets\Editor\SceneCheck.cs.meta
+D:\Github\simulasi-3d-pc\Assets\Editor\SocketTools.cs
+D:\Github\simulasi-3d-pc\Assets\Editor\SocketTools.cs.meta
+D:\Github\simulasi-3d-pc\Assets\Editor\TableSurface.cs
+D:\Github\simulasi-3d-pc\Assets\Editor\TableSurface.cs.meta
+D:\Github\simulasi-3d-pc\Assets\Editor\UiSetUpTools.cs
+D:\Github\simulasi-3d-pc\Assets\Editor\UiSetUpTools.cs.meta
+D:\Github\simulasi-3d-pc\Assets\Fx\FX_Snap.prefab
+D:\Github\simulasi-3d-pc\Assets\Fx\FX_Snap.prefab.meta
+D:\Github\simulasi-3d-pc\Assets\Icons\Icon_Cable.png
+D:\Github\simulasi-3d-pc\Assets\Icons\Icon_Cable.png.meta
+D:\Github\simulasi-3d-pc\Assets\Icons\Icon_Case.png
+D:\Github\simulasi-3d-pc\Assets\Icons\Icon_Case.png.meta
+D:\Github\simulasi-3d-pc\Assets\Icons\Icon_Cooler.png
+D:\Github\simulasi-3d-pc\Assets\Icons\Icon_Cooler.png.meta
+D:\Github\simulasi-3d-pc\Assets\Icons\Icon_CPU.png
+D:\Github\simulasi-3d-pc\Assets\Icons\Icon_CPU.png.meta
+D:\Github\simulasi-3d-pc\Assets\Icons\Icon_Fan.png
+D:\Github\simulasi-3d-pc\Assets\Icons\Icon_Fan.png.meta
+D:\Github\simulasi-3d-pc\Assets\Icons\Icon_GPU.png
+D:\Github\simulasi-3d-pc\Assets\Icons\Icon_GPU.png.meta
+D:\Github\simulasi-3d-pc\Assets\Icons\Icon_Keyboard.png
+D:\Github\simulasi-3d-pc\Assets\Icons\Icon_Keyboard.png.meta
+D:\Github\simulasi-3d-pc\Assets\Icons\Icon_Mobo.png
+D:\Github\simulasi-3d-pc\Assets\Icons\Icon_Mobo.png.meta
+D:\Github\simulasi-3d-pc\Assets\Icons\Icon_Monitor.png
+D:\Github\simulasi-3d-pc\Assets\Icons\Icon_Monitor.png.meta
+D:\Github\simulasi-3d-pc\Assets\Icons\Icon_Mouse.png
+D:\Github\simulasi-3d-pc\Assets\Icons\Icon_Mouse.png.meta
+D:\Github\simulasi-3d-pc\Assets\Icons\Icon_PSU.png
+D:\Github\simulasi-3d-pc\Assets\Icons\Icon_PSU.png.meta
+D:\Github\simulasi-3d-pc\Assets\Icons\Icon_RAM.png
+D:\Github\simulasi-3d-pc\Assets\Icons\Icon_RAM.png.meta
+D:\Github\simulasi-3d-pc\Assets\Icons\Icon_SSD.png
+D:\Github\simulasi-3d-pc\Assets\Icons\Icon_SSD.png.meta
+D:\Github\simulasi-3d-pc\Assets\Materials\abu metal 0.6.mat
+D:\Github\simulasi-3d-pc\Assets\Materials\abu metal 0.6.mat.meta
+D:\Github\simulasi-3d-pc\Assets\Materials\abu.007.mat
+D:\Github\simulasi-3d-pc\Assets\Materials\abu.007.mat.meta
+D:\Github\simulasi-3d-pc\Assets\Materials\abu.009.mat
+D:\Github\simulasi-3d-pc\Assets\Materials\abu.009.mat.meta
+D:\Github\simulasi-3d-pc\Assets\Materials\abu.011.mat
+D:\Github\simulasi-3d-pc\Assets\Materials\abu.011.mat.meta
+D:\Github\simulasi-3d-pc\Assets\Materials\abu.012.mat
+D:\Github\simulasi-3d-pc\Assets\Materials\abu.012.mat.meta
+D:\Github\simulasi-3d-pc\Assets\Materials\abu.024.mat
+D:\Github\simulasi-3d-pc\Assets\Materials\abu.024.mat.meta
+D:\Github\simulasi-3d-pc\Assets\Materials\abu.026.mat
+D:\Github\simulasi-3d-pc\Assets\Materials\abu.026.mat.meta
+D:\Github\simulasi-3d-pc\Assets\Materials\abu.028.mat
+D:\Github\simulasi-3d-pc\Assets\Materials\abu.028.mat.meta
+D:\Github\simulasi-3d-pc\Assets\Materials\aButton1.mat
+D:\Github\simulasi-3d-pc\Assets\Materials\aButton1.mat.meta
+D:\Github\simulasi-3d-pc\Assets\Materials\abu_gelap.003 1.mat
+D:\Github\simulasi-3d-pc\Assets\Materials\abu_gelap.003 1.mat.meta
+D:\Github\simulasi-3d-pc\Assets\Materials\abu_gelap.003.mat
+D:\Github\simulasi-3d-pc\Assets\Materials\abu_gelap.003.mat.meta
+D:\Github\simulasi-3d-pc\Assets\Materials\abu_gelap.004 1.mat
+D:\Github\simulasi-3d-pc\Assets\Materials\abu_gelap.004 1.mat.meta
+D:\Github\simulasi-3d-pc\Assets\Materials\abu_gelap.004.mat
+D:\Github\simulasi-3d-pc\Assets\Materials\abu_gelap.004.mat.meta
+D:\Github\simulasi-3d-pc\Assets\Materials\abu_gelap.005.mat
+D:\Github\simulasi-3d-pc\Assets\Materials\abu_gelap.005.mat.meta
+D:\Github\simulasi-3d-pc\Assets\Materials\abu_gelap.006.mat
+D:\Github\simulasi-3d-pc\Assets\Materials\abu_gelap.006.mat.meta
+D:\Github\simulasi-3d-pc\Assets\Materials\abu_gelap.007 1.mat
+D:\Github\simulasi-3d-pc\Assets\Materials\abu_gelap.007 1.mat.meta
+D:\Github\simulasi-3d-pc\Assets\Materials\abu_gelap.007.mat
+D:\Github\simulasi-3d-pc\Assets\Materials\abu_gelap.007.mat.meta
+D:\Github\simulasi-3d-pc\Assets\Materials\abu_gelap.008.mat
+D:\Github\simulasi-3d-pc\Assets\Materials\abu_gelap.008.mat.meta
+D:\Github\simulasi-3d-pc\Assets\Materials\abu_gelap.009.mat
+D:\Github\simulasi-3d-pc\Assets\Materials\abu_gelap.009.mat.meta
+D:\Github\simulasi-3d-pc\Assets\Materials\abu_gelap.011.mat
+D:\Github\simulasi-3d-pc\Assets\Materials\abu_gelap.011.mat.meta
+D:\Github\simulasi-3d-pc\Assets\Materials\abu_gelap.012.mat
+D:\Github\simulasi-3d-pc\Assets\Materials\abu_gelap.012.mat.meta
+D:\Github\simulasi-3d-pc\Assets\Materials\abu_gelap.014.mat
+D:\Github\simulasi-3d-pc\Assets\Materials\abu_gelap.014.mat.meta
+D:\Github\simulasi-3d-pc\Assets\Materials\abu_gelap.015.mat
+D:\Github\simulasi-3d-pc\Assets\Materials\abu_gelap.015.mat.meta
+D:\Github\simulasi-3d-pc\Assets\Materials\abu_gelap.016.mat
+D:\Github\simulasi-3d-pc\Assets\Materials\abu_gelap.016.mat.meta
+D:\Github\simulasi-3d-pc\Assets\Materials\abu_gelap.017.mat
+D:\Github\simulasi-3d-pc\Assets\Materials\abu_gelap.017.mat.meta
+D:\Github\simulasi-3d-pc\Assets\Materials\abu_gelap.018.mat
+D:\Github\simulasi-3d-pc\Assets\Materials\abu_gelap.018.mat.meta
+D:\Github\simulasi-3d-pc\Assets\Materials\abu_gelap.024.mat
+D:\Github\simulasi-3d-pc\Assets\Materials\abu_gelap.024.mat.meta
+D:\Github\simulasi-3d-pc\Assets\Materials\abu_gelap.026.mat
+D:\Github\simulasi-3d-pc\Assets\Materials\abu_gelap.026.mat.meta
+D:\Github\simulasi-3d-pc\Assets\Materials\abu_gelap.028.mat
+D:\Github\simulasi-3d-pc\Assets\Materials\abu_gelap.028.mat.meta
+D:\Github\simulasi-3d-pc\Assets\Materials\aiStandardSurface1SG.mat
+D:\Github\simulasi-3d-pc\Assets\Materials\aiStandardSurface1SG.mat.meta
+D:\Github\simulasi-3d-pc\Assets\Materials\aiStandardSurface2SG.mat
+D:\Github\simulasi-3d-pc\Assets\Materials\aiStandardSurface2SG.mat.meta
+D:\Github\simulasi-3d-pc\Assets\Materials\aiStandardSurface3SG.mat
+D:\Github\simulasi-3d-pc\Assets\Materials\aiStandardSurface3SG.mat.meta
+D:\Github\simulasi-3d-pc\Assets\Materials\Aksen.004.mat
+D:\Github\simulasi-3d-pc\Assets\Materials\Aksen.004.mat.meta
+D:\Github\simulasi-3d-pc\Assets\Materials\Backdrop.mat
+D:\Github\simulasi-3d-pc\Assets\Materials\Backdrop.mat.meta
+D:\Github\simulasi-3d-pc\Assets\Materials\Back_Outer.mat
+D:\Github\simulasi-3d-pc\Assets\Materials\Back_Outer.mat.meta
+D:\Github\simulasi-3d-pc\Assets\Materials\bButton1.mat
+D:\Github\simulasi-3d-pc\Assets\Materials\bButton1.mat.meta
+D:\Github\simulasi-3d-pc\Assets\Materials\beige.020.mat
+D:\Github\simulasi-3d-pc\Assets\Materials\beige.020.mat.meta
+D:\Github\simulasi-3d-pc\Assets\Materials\Belt.mat
+D:\Github\simulasi-3d-pc\Assets\Materials\Belt.mat.meta
+D:\Github\simulasi-3d-pc\Assets\Materials\biru.015.mat
+D:\Github\simulasi-3d-pc\Assets\Materials\biru.015.mat.meta
+D:\Github\simulasi-3d-pc\Assets\Materials\biru.024.mat
+D:\Github\simulasi-3d-pc\Assets\Materials\biru.024.mat.meta
+D:\Github\simulasi-3d-pc\Assets\Materials\biru.026.mat
+D:\Github\simulasi-3d-pc\Assets\Materials\biru.026.mat.meta
+D:\Github\simulasi-3d-pc\Assets\Materials\biru.028.mat
+D:\Github\simulasi-3d-pc\Assets\Materials\biru.028.mat.meta
+D:\Github\simulasi-3d-pc\Assets\Materials\Biru.mat
+D:\Github\simulasi-3d-pc\Assets\Materials\Biru.mat.meta
+D:\Github\simulasi-3d-pc\Assets\Materials\black plastic.mat
+D:\Github\simulasi-3d-pc\Assets\Materials\black plastic.mat.meta
+D:\Github\simulasi-3d-pc\Assets\Materials\blinn1.mat
+D:\Github\simulasi-3d-pc\Assets\Materials\blinn1.mat.meta
+D:\Github\simulasi-3d-pc\Assets\Materials\blinn2.mat
+D:\Github\simulasi-3d-pc\Assets\Materials\blinn2.mat.meta
+D:\Github\simulasi-3d-pc\Assets\Materials\blinn3.mat
+D:\Github\simulasi-3d-pc\Assets\Materials\blinn3.mat.meta
+D:\Github\simulasi-3d-pc\Assets\Materials\Button.mat
+D:\Github\simulasi-3d-pc\Assets\Materials\Button.mat.meta
+D:\Github\simulasi-3d-pc\Assets\Materials\Camera_Outer.mat
+D:\Github\simulasi-3d-pc\Assets\Materials\Camera_Outer.mat.meta
+D:\Github\simulasi-3d-pc\Assets\Materials\Carpet.mat
+D:\Github\simulasi-3d-pc\Assets\Materials\Carpet.mat.meta
+D:\Github\simulasi-3d-pc\Assets\Materials\Chair.mat
+D:\Github\simulasi-3d-pc\Assets\Materials\Chair.mat.meta
+D:\Github\simulasi-3d-pc\Assets\Materials\coklat.020.mat
+D:\Github\simulasi-3d-pc\Assets\Materials\coklat.020.mat.meta
+D:\Github\simulasi-3d-pc\Assets\Materials\Dial.mat
+D:\Github\simulasi-3d-pc\Assets\Materials\Dial.mat.meta
+D:\Github\simulasi-3d-pc\Assets\Materials\Dial_2.mat
+D:\Github\simulasi-3d-pc\Assets\Materials\Dial_2.mat.meta
+D:\Github\simulasi-3d-pc\Assets\Materials\emas.001.mat
+D:\Github\simulasi-3d-pc\Assets\Materials\emas.001.mat.meta
+D:\Github\simulasi-3d-pc\Assets\Materials\emas.002.mat
+D:\Github\simulasi-3d-pc\Assets\Materials\emas.002.mat.meta
+D:\Github\simulasi-3d-pc\Assets\Materials\emas.006.mat
+D:\Github\simulasi-3d-pc\Assets\Materials\emas.006.mat.meta
+D:\Github\simulasi-3d-pc\Assets\Materials\emas.007.mat
+D:\Github\simulasi-3d-pc\Assets\Materials\emas.007.mat.meta
+D:\Github\simulasi-3d-pc\Assets\Materials\emas.008.mat
+D:\Github\simulasi-3d-pc\Assets\Materials\emas.008.mat.meta
+D:\Github\simulasi-3d-pc\Assets\Materials\emas.014.mat
+D:\Github\simulasi-3d-pc\Assets\Materials\emas.014.mat.meta
+D:\Github\simulasi-3d-pc\Assets\Materials\emas.015.mat
+D:\Github\simulasi-3d-pc\Assets\Materials\emas.015.mat.meta
+D:\Github\simulasi-3d-pc\Assets\Materials\emas.016.mat
+D:\Github\simulasi-3d-pc\Assets\Materials\emas.016.mat.meta
+D:\Github\simulasi-3d-pc\Assets\Materials\emas.024.mat
+D:\Github\simulasi-3d-pc\Assets\Materials\emas.024.mat.meta
+D:\Github\simulasi-3d-pc\Assets\Materials\emas.026.mat
+D:\Github\simulasi-3d-pc\Assets\Materials\emas.026.mat.meta
+D:\Github\simulasi-3d-pc\Assets\Materials\emas.028.mat
+D:\Github\simulasi-3d-pc\Assets\Materials\emas.028.mat.meta
+D:\Github\simulasi-3d-pc\Assets\Materials\emas.mat
+D:\Github\simulasi-3d-pc\Assets\Materials\emas.mat.meta
+D:\Github\simulasi-3d-pc\Assets\Materials\Glass.mat
+D:\Github\simulasi-3d-pc\Assets\Materials\Glass.mat.meta
+D:\Github\simulasi-3d-pc\Assets\Materials\gold metal.mat
+D:\Github\simulasi-3d-pc\Assets\Materials\gold metal.mat.meta
+D:\Github\simulasi-3d-pc\Assets\Materials\Gold.004.mat
+D:\Github\simulasi-3d-pc\Assets\Materials\Gold.004.mat.meta
+D:\Github\simulasi-3d-pc\Assets\Materials\Heatsink.004.mat
+D:\Github\simulasi-3d-pc\Assets\Materials\Heatsink.004.mat.meta
+D:\Github\simulasi-3d-pc\Assets\Materials\hijau 1.mat
+D:\Github\simulasi-3d-pc\Assets\Materials\hijau 1.mat.meta
+D:\Github\simulasi-3d-pc\Assets\Materials\hijau.002.mat
+D:\Github\simulasi-3d-pc\Assets\Materials\hijau.002.mat.meta
+D:\Github\simulasi-3d-pc\Assets\Materials\hijau.004.mat
+D:\Github\simulasi-3d-pc\Assets\Materials\hijau.004.mat.meta
+D:\Github\simulasi-3d-pc\Assets\Materials\hijau.mat
+D:\Github\simulasi-3d-pc\Assets\Materials\hijau.mat.meta
+D:\Github\simulasi-3d-pc\Assets\Materials\hitam metal 0.5.mat
+D:\Github\simulasi-3d-pc\Assets\Materials\hitam metal 0.5.mat.meta
+D:\Github\simulasi-3d-pc\Assets\Materials\hitam.003 1.mat
+D:\Github\simulasi-3d-pc\Assets\Materials\hitam.003 1.mat.meta
+D:\Github\simulasi-3d-pc\Assets\Materials\hitam.003.mat
+D:\Github\simulasi-3d-pc\Assets\Materials\hitam.003.mat.meta
+D:\Github\simulasi-3d-pc\Assets\Materials\hitam.004 1.mat
+D:\Github\simulasi-3d-pc\Assets\Materials\hitam.004 1.mat.meta
+D:\Github\simulasi-3d-pc\Assets\Materials\hitam.004.mat
+D:\Github\simulasi-3d-pc\Assets\Materials\hitam.004.mat.meta
+D:\Github\simulasi-3d-pc\Assets\Materials\hitam.005.mat
+D:\Github\simulasi-3d-pc\Assets\Materials\hitam.005.mat.meta
+D:\Github\simulasi-3d-pc\Assets\Materials\hitam.006.mat
+D:\Github\simulasi-3d-pc\Assets\Materials\hitam.006.mat.meta
+D:\Github\simulasi-3d-pc\Assets\Materials\hitam.007 1.mat
+D:\Github\simulasi-3d-pc\Assets\Materials\hitam.007 1.mat.meta
+D:\Github\simulasi-3d-pc\Assets\Materials\hitam.007.mat
+D:\Github\simulasi-3d-pc\Assets\Materials\hitam.007.mat.meta
+D:\Github\simulasi-3d-pc\Assets\Materials\hitam.008.mat
+D:\Github\simulasi-3d-pc\Assets\Materials\hitam.008.mat.meta
+D:\Github\simulasi-3d-pc\Assets\Materials\hitam.009.mat
+D:\Github\simulasi-3d-pc\Assets\Materials\hitam.009.mat.meta
+D:\Github\simulasi-3d-pc\Assets\Materials\hitam.011.mat
+D:\Github\simulasi-3d-pc\Assets\Materials\hitam.011.mat.meta
+D:\Github\simulasi-3d-pc\Assets\Materials\hitam.012.mat
+D:\Github\simulasi-3d-pc\Assets\Materials\hitam.012.mat.meta
+D:\Github\simulasi-3d-pc\Assets\Materials\hitam.014.mat
+D:\Github\simulasi-3d-pc\Assets\Materials\hitam.014.mat.meta
+D:\Github\simulasi-3d-pc\Assets\Materials\hitam.015.mat
+D:\Github\simulasi-3d-pc\Assets\Materials\hitam.015.mat.meta
+D:\Github\simulasi-3d-pc\Assets\Materials\hitam.016.mat
+D:\Github\simulasi-3d-pc\Assets\Materials\hitam.016.mat.meta
+D:\Github\simulasi-3d-pc\Assets\Materials\hitam.017.mat
+D:\Github\simulasi-3d-pc\Assets\Materials\hitam.017.mat.meta
+D:\Github\simulasi-3d-pc\Assets\Materials\hitam.018.mat
+D:\Github\simulasi-3d-pc\Assets\Materials\hitam.018.mat.meta
+D:\Github\simulasi-3d-pc\Assets\Materials\hitam.021.mat
+D:\Github\simulasi-3d-pc\Assets\Materials\hitam.021.mat.meta
+D:\Github\simulasi-3d-pc\Assets\Materials\hitam.024.mat
+D:\Github\simulasi-3d-pc\Assets\Materials\hitam.024.mat.meta
+D:\Github\simulasi-3d-pc\Assets\Materials\hitam.026.mat
+D:\Github\simulasi-3d-pc\Assets\Materials\hitam.026.mat.meta
+D:\Github\simulasi-3d-pc\Assets\Materials\hitam.028.mat
+D:\Github\simulasi-3d-pc\Assets\Materials\hitam.028.mat.meta
+D:\Github\simulasi-3d-pc\Assets\Materials\hitam_logam.004 1.mat
+D:\Github\simulasi-3d-pc\Assets\Materials\hitam_logam.004 1.mat.meta
+D:\Github\simulasi-3d-pc\Assets\Materials\hitam_logam.004.mat
+D:\Github\simulasi-3d-pc\Assets\Materials\hitam_logam.004.mat.meta
+D:\Github\simulasi-3d-pc\Assets\Materials\hitam_logam.005.mat
+D:\Github\simulasi-3d-pc\Assets\Materials\hitam_logam.005.mat.meta
+D:\Github\simulasi-3d-pc\Assets\Materials\hitam_logam.006.mat
+D:\Github\simulasi-3d-pc\Assets\Materials\hitam_logam.006.mat.meta
+D:\Github\simulasi-3d-pc\Assets\Materials\hitam_logam.007.mat
+D:\Github\simulasi-3d-pc\Assets\Materials\hitam_logam.007.mat.meta
+D:\Github\simulasi-3d-pc\Assets\Materials\hitam_logam.008.mat
+D:\Github\simulasi-3d-pc\Assets\Materials\hitam_logam.008.mat.meta
+D:\Github\simulasi-3d-pc\Assets\Materials\hitam_logam.024.mat
+D:\Github\simulasi-3d-pc\Assets\Materials\hitam_logam.024.mat.meta
+D:\Github\simulasi-3d-pc\Assets\Materials\hitam_logam.026.mat
+D:\Github\simulasi-3d-pc\Assets\Materials\hitam_logam.026.mat.meta
+D:\Github\simulasi-3d-pc\Assets\Materials\hitam_logam.028.mat
+D:\Github\simulasi-3d-pc\Assets\Materials\hitam_logam.028.mat.meta
+D:\Github\simulasi-3d-pc\Assets\Materials\hitam_matte.003.mat
+D:\Github\simulasi-3d-pc\Assets\Materials\hitam_matte.003.mat.meta
+D:\Github\simulasi-3d-pc\Assets\Materials\hitam_matte.007.mat
+D:\Github\simulasi-3d-pc\Assets\Materials\hitam_matte.007.mat.meta
+D:\Github\simulasi-3d-pc\Assets\Materials\kaca.002.mat
+D:\Github\simulasi-3d-pc\Assets\Materials\kaca.002.mat.meta
+D:\Github\simulasi-3d-pc\Assets\Materials\kaca.004.mat
+D:\Github\simulasi-3d-pc\Assets\Materials\kaca.004.mat.meta
+D:\Github\simulasi-3d-pc\Assets\Materials\kaca.mat
+D:\Github\simulasi-3d-pc\Assets\Materials\kaca.mat.meta
+D:\Github\simulasi-3d-pc\Assets\Materials\kuning.009.mat
+D:\Github\simulasi-3d-pc\Assets\Materials\kuning.009.mat.meta
+D:\Github\simulasi-3d-pc\Assets\Materials\kuning.011.mat
+D:\Github\simulasi-3d-pc\Assets\Materials\kuning.011.mat.meta
+D:\Github\simulasi-3d-pc\Assets\Materials\kuning.012.mat
+D:\Github\simulasi-3d-pc\Assets\Materials\kuning.012.mat.meta
+D:\Github\simulasi-3d-pc\Assets\Materials\Label.004.mat
+D:\Github\simulasi-3d-pc\Assets\Materials\Label.004.mat.meta
+D:\Github\simulasi-3d-pc\Assets\Materials\Leather.001.mat
+D:\Github\simulasi-3d-pc\Assets\Materials\Leather.001.mat.meta
+D:\Github\simulasi-3d-pc\Assets\Materials\Leather.002.mat
+D:\Github\simulasi-3d-pc\Assets\Materials\Leather.002.mat.meta
+D:\Github\simulasi-3d-pc\Assets\Materials\Leather.mat
+D:\Github\simulasi-3d-pc\Assets\Materials\Leather.mat.meta
+D:\Github\simulasi-3d-pc\Assets\Materials\LeatherCougar.mat
+D:\Github\simulasi-3d-pc\Assets\Materials\LeatherCougar.mat.meta
+D:\Github\simulasi-3d-pc\Assets\Materials\LeatherCougar2.mat
+D:\Github\simulasi-3d-pc\Assets\Materials\LeatherCougar2.mat.meta
+D:\Github\simulasi-3d-pc\Assets\Materials\Lens.mat
+D:\Github\simulasi-3d-pc\Assets\Materials\Lens.mat.meta
+D:\Github\simulasi-3d-pc\Assets\Materials\Lens_Grip.mat
+D:\Github\simulasi-3d-pc\Assets\Materials\Lens_Grip.mat.meta
+D:\Github\simulasi-3d-pc\Assets\Materials\Lens_Outer.mat
+D:\Github\simulasi-3d-pc\Assets\Materials\Lens_Outer.mat.meta
+D:\Github\simulasi-3d-pc\Assets\Materials\Lights.mat
+D:\Github\simulasi-3d-pc\Assets\Materials\Lights.mat.meta
+D:\Github\simulasi-3d-pc\Assets\Materials\lubang.003.mat
+D:\Github\simulasi-3d-pc\Assets\Materials\lubang.003.mat.meta
+D:\Github\simulasi-3d-pc\Assets\Materials\lubang.004 1.mat
+D:\Github\simulasi-3d-pc\Assets\Materials\lubang.004 1.mat.meta
+D:\Github\simulasi-3d-pc\Assets\Materials\lubang.004.mat
+D:\Github\simulasi-3d-pc\Assets\Materials\lubang.004.mat.meta
+D:\Github\simulasi-3d-pc\Assets\Materials\lubang.005.mat
+D:\Github\simulasi-3d-pc\Assets\Materials\lubang.005.mat.meta
+D:\Github\simulasi-3d-pc\Assets\Materials\lubang.006.mat
+D:\Github\simulasi-3d-pc\Assets\Materials\lubang.006.mat.meta
+D:\Github\simulasi-3d-pc\Assets\Materials\lubang.007 1.mat
+D:\Github\simulasi-3d-pc\Assets\Materials\lubang.007 1.mat.meta
+D:\Github\simulasi-3d-pc\Assets\Materials\lubang.007.mat
+D:\Github\simulasi-3d-pc\Assets\Materials\lubang.007.mat.meta
+D:\Github\simulasi-3d-pc\Assets\Materials\lubang.008.mat
+D:\Github\simulasi-3d-pc\Assets\Materials\lubang.008.mat.meta
+D:\Github\simulasi-3d-pc\Assets\Materials\lubang.017.mat
+D:\Github\simulasi-3d-pc\Assets\Materials\lubang.017.mat.meta
+D:\Github\simulasi-3d-pc\Assets\Materials\lubang.018.mat
+D:\Github\simulasi-3d-pc\Assets\Materials\lubang.018.mat.meta
+D:\Github\simulasi-3d-pc\Assets\Materials\lubang.020.mat
+D:\Github\simulasi-3d-pc\Assets\Materials\lubang.020.mat.meta
+D:\Github\simulasi-3d-pc\Assets\Materials\lubang.024.mat
+D:\Github\simulasi-3d-pc\Assets\Materials\lubang.024.mat.meta
+D:\Github\simulasi-3d-pc\Assets\Materials\lubang.026.mat
+D:\Github\simulasi-3d-pc\Assets\Materials\lubang.026.mat.meta
+D:\Github\simulasi-3d-pc\Assets\Materials\lubang.028.mat
+D:\Github\simulasi-3d-pc\Assets\Materials\lubang.028.mat.meta
+D:\Github\simulasi-3d-pc\Assets\Materials\MainMenu
+D:\Github\simulasi-3d-pc\Assets\Materials\MainMenu.meta
+D:\Github\simulasi-3d-pc\Assets\Materials\material.001 1.mat
+D:\Github\simulasi-3d-pc\Assets\Materials\material.001 1.mat.meta
+D:\Github\simulasi-3d-pc\Assets\Materials\Material.001 2.mat
+D:\Github\simulasi-3d-pc\Assets\Materials\Material.001 2.mat.meta
+D:\Github\simulasi-3d-pc\Assets\Materials\Material.001.mat
+D:\Github\simulasi-3d-pc\Assets\Materials\Material.001.mat.meta
+D:\Github\simulasi-3d-pc\Assets\Materials\Material.002 1.mat
+D:\Github\simulasi-3d-pc\Assets\Materials\Material.002 1.mat.meta
+D:\Github\simulasi-3d-pc\Assets\Materials\Material.002.mat
+D:\Github\simulasi-3d-pc\Assets\Materials\Material.002.mat.meta
+D:\Github\simulasi-3d-pc\Assets\Materials\Material.003.mat
+D:\Github\simulasi-3d-pc\Assets\Materials\Material.003.mat.meta
+D:\Github\simulasi-3d-pc\Assets\Materials\Material.005.mat
+D:\Github\simulasi-3d-pc\Assets\Materials\Material.005.mat.meta
+D:\Github\simulasi-3d-pc\Assets\Materials\Material.006.mat
+D:\Github\simulasi-3d-pc\Assets\Materials\Material.006.mat.meta
+D:\Github\simulasi-3d-pc\Assets\Materials\Material.007.mat
+D:\Github\simulasi-3d-pc\Assets\Materials\Material.007.mat.meta
+D:\Github\simulasi-3d-pc\Assets\Materials\Material.008.mat
+D:\Github\simulasi-3d-pc\Assets\Materials\Material.008.mat.meta
+D:\Github\simulasi-3d-pc\Assets\Materials\Material.010.mat
+D:\Github\simulasi-3d-pc\Assets\Materials\Material.010.mat.meta
+D:\Github\simulasi-3d-pc\Assets\Materials\Material.011.mat
+D:\Github\simulasi-3d-pc\Assets\Materials\Material.011.mat.meta
+D:\Github\simulasi-3d-pc\Assets\Materials\Material.012.mat
+D:\Github\simulasi-3d-pc\Assets\Materials\Material.012.mat.meta
+D:\Github\simulasi-3d-pc\Assets\Materials\Material.013.mat
+D:\Github\simulasi-3d-pc\Assets\Materials\Material.013.mat.meta
+D:\Github\simulasi-3d-pc\Assets\Materials\Material.015.mat
+D:\Github\simulasi-3d-pc\Assets\Materials\Material.015.mat.meta
+D:\Github\simulasi-3d-pc\Assets\Materials\Material.016.mat
+D:\Github\simulasi-3d-pc\Assets\Materials\Material.016.mat.meta
+D:\Github\simulasi-3d-pc\Assets\Materials\Material.018.mat
+D:\Github\simulasi-3d-pc\Assets\Materials\Material.018.mat.meta
+D:\Github\simulasi-3d-pc\Assets\Materials\Material.019.mat
+D:\Github\simulasi-3d-pc\Assets\Materials\Material.019.mat.meta
+D:\Github\simulasi-3d-pc\Assets\Materials\Material.mat
+D:\Github\simulasi-3d-pc\Assets\Materials\Material.mat.meta
+D:\Github\simulasi-3d-pc\Assets\Materials\Mat_Bluegrey.mat
+D:\Github\simulasi-3d-pc\Assets\Materials\Mat_Bluegrey.mat.meta
+D:\Github\simulasi-3d-pc\Assets\Materials\Mat_BtnMagenta.mat
+D:\Github\simulasi-3d-pc\Assets\Materials\Mat_BtnMagenta.mat.meta
+D:\Github\simulasi-3d-pc\Assets\Materials\Mat_Floor.mat
+D:\Github\simulasi-3d-pc\Assets\Materials\Mat_Floor.mat.meta
+D:\Github\simulasi-3d-pc\Assets\Materials\Mat_FloorDark.mat
+D:\Github\simulasi-3d-pc\Assets\Materials\Mat_FloorDark.mat.meta
+D:\Github\simulasi-3d-pc\Assets\Materials\Mat_grodTinkercad.mat
+D:\Github\simulasi-3d-pc\Assets\Materials\Mat_grodTinkercad.mat.meta
+D:\Github\simulasi-3d-pc\Assets\Materials\Mat_Hologram.mat
+D:\Github\simulasi-3d-pc\Assets\Materials\Mat_Hologram.mat.meta
+D:\Github\simulasi-3d-pc\Assets\Materials\Mat_Particle.mat
+D:\Github\simulasi-3d-pc\Assets\Materials\Mat_Particle.mat.meta
+D:\Github\simulasi-3d-pc\Assets\Materials\Mat_PCB.mat
+D:\Github\simulasi-3d-pc\Assets\Materials\Mat_PCB.mat.meta
+D:\Github\simulasi-3d-pc\Assets\Materials\Mat_ScreenOn.mat
+D:\Github\simulasi-3d-pc\Assets\Materials\Mat_ScreenOn.mat.meta
+D:\Github\simulasi-3d-pc\Assets\Materials\Mat_Sky.mat
+D:\Github\simulasi-3d-pc\Assets\Materials\Mat_Sky.mat.meta
+D:\Github\simulasi-3d-pc\Assets\Materials\merah.014.mat
+D:\Github\simulasi-3d-pc\Assets\Materials\merah.014.mat.meta
+D:\Github\simulasi-3d-pc\Assets\Materials\Metal.mat
+D:\Github\simulasi-3d-pc\Assets\Materials\Metal.mat.meta
+D:\Github\simulasi-3d-pc\Assets\Materials\Metall.mat
+D:\Github\simulasi-3d-pc\Assets\Materials\Metall.mat.meta
+D:\Github\simulasi-3d-pc\Assets\Materials\Metallic.001.mat
+D:\Github\simulasi-3d-pc\Assets\Materials\Metallic.001.mat.meta
+D:\Github\simulasi-3d-pc\Assets\Materials\Metallic.mat
+D:\Github\simulasi-3d-pc\Assets\Materials\Metallic.mat.meta
+D:\Github\simulasi-3d-pc\Assets\Materials\Metall_rough.mat
+D:\Github\simulasi-3d-pc\Assets\Materials\Metall_rough.mat.meta
+D:\Github\simulasi-3d-pc\Assets\Materials\Middle.mat
+D:\Github\simulasi-3d-pc\Assets\Materials\Middle.mat.meta
+D:\Github\simulasi-3d-pc\Assets\Materials\New Material.mat
+D:\Github\simulasi-3d-pc\Assets\Materials\New Material.mat.meta
+D:\Github\simulasi-3d-pc\Assets\Materials\Orange.mat
+D:\Github\simulasi-3d-pc\Assets\Materials\Orange.mat.meta
+D:\Github\simulasi-3d-pc\Assets\Materials\Painting.mat
+D:\Github\simulasi-3d-pc\Assets\Materials\Painting.mat.meta
+D:\Github\simulasi-3d-pc\Assets\Materials\pcb.001.mat
+D:\Github\simulasi-3d-pc\Assets\Materials\pcb.001.mat.meta
+D:\Github\simulasi-3d-pc\Assets\Materials\pcb.002.mat
+D:\Github\simulasi-3d-pc\Assets\Materials\pcb.002.mat.meta
+D:\Github\simulasi-3d-pc\Assets\Materials\PCB.004.mat
+D:\Github\simulasi-3d-pc\Assets\Materials\PCB.004.mat.meta
+D:\Github\simulasi-3d-pc\Assets\Materials\pcb.mat
+D:\Github\simulasi-3d-pc\Assets\Materials\pcb.mat.meta
+D:\Github\simulasi-3d-pc\Assets\Materials\pcb_hitam.006.mat
+D:\Github\simulasi-3d-pc\Assets\Materials\pcb_hitam.006.mat.meta
+D:\Github\simulasi-3d-pc\Assets\Materials\pcb_hitam.007.mat
+D:\Github\simulasi-3d-pc\Assets\Materials\pcb_hitam.007.mat.meta
+D:\Github\simulasi-3d-pc\Assets\Materials\pcb_hitam.008.mat
+D:\Github\simulasi-3d-pc\Assets\Materials\pcb_hitam.008.mat.meta
+D:\Github\simulasi-3d-pc\Assets\Materials\pcb_hitam.014.mat
+D:\Github\simulasi-3d-pc\Assets\Materials\pcb_hitam.014.mat.meta
+D:\Github\simulasi-3d-pc\Assets\Materials\pcb_hitam.015.mat
+D:\Github\simulasi-3d-pc\Assets\Materials\pcb_hitam.015.mat.meta
+D:\Github\simulasi-3d-pc\Assets\Materials\pcb_hitam.016.mat
+D:\Github\simulasi-3d-pc\Assets\Materials\pcb_hitam.016.mat.meta
+D:\Github\simulasi-3d-pc\Assets\Materials\perak.001.mat
+D:\Github\simulasi-3d-pc\Assets\Materials\perak.001.mat.meta
+D:\Github\simulasi-3d-pc\Assets\Materials\perak.002.mat
+D:\Github\simulasi-3d-pc\Assets\Materials\perak.002.mat.meta
+D:\Github\simulasi-3d-pc\Assets\Materials\perak.003.mat
+D:\Github\simulasi-3d-pc\Assets\Materials\perak.003.mat.meta
+D:\Github\simulasi-3d-pc\Assets\Materials\perak.004 1.mat
+D:\Github\simulasi-3d-pc\Assets\Materials\perak.004 1.mat.meta
+D:\Github\simulasi-3d-pc\Assets\Materials\perak.004.mat
+D:\Github\simulasi-3d-pc\Assets\Materials\perak.004.mat.meta
+D:\Github\simulasi-3d-pc\Assets\Materials\perak.005.mat
+D:\Github\simulasi-3d-pc\Assets\Materials\perak.005.mat.meta
+D:\Github\simulasi-3d-pc\Assets\Materials\perak.006.mat
+D:\Github\simulasi-3d-pc\Assets\Materials\perak.006.mat.meta
+D:\Github\simulasi-3d-pc\Assets\Materials\perak.007.mat
+D:\Github\simulasi-3d-pc\Assets\Materials\perak.007.mat.meta
+D:\Github\simulasi-3d-pc\Assets\Materials\perak.008.mat
+D:\Github\simulasi-3d-pc\Assets\Materials\perak.008.mat.meta
+D:\Github\simulasi-3d-pc\Assets\Materials\perak.009.mat
+D:\Github\simulasi-3d-pc\Assets\Materials\perak.009.mat.meta
+D:\Github\simulasi-3d-pc\Assets\Materials\perak.011.mat
+D:\Github\simulasi-3d-pc\Assets\Materials\perak.011.mat.meta
+D:\Github\simulasi-3d-pc\Assets\Materials\perak.012.mat
+D:\Github\simulasi-3d-pc\Assets\Materials\perak.012.mat.meta
+D:\Github\simulasi-3d-pc\Assets\Materials\perak.017.mat
+D:\Github\simulasi-3d-pc\Assets\Materials\perak.017.mat.meta
+D:\Github\simulasi-3d-pc\Assets\Materials\perak.018.mat
+D:\Github\simulasi-3d-pc\Assets\Materials\perak.018.mat.meta
+D:\Github\simulasi-3d-pc\Assets\Materials\perak.021.mat
+D:\Github\simulasi-3d-pc\Assets\Materials\perak.021.mat.meta
+D:\Github\simulasi-3d-pc\Assets\Materials\perak.024.mat
+D:\Github\simulasi-3d-pc\Assets\Materials\perak.024.mat.meta
+D:\Github\simulasi-3d-pc\Assets\Materials\perak.026.mat
+D:\Github\simulasi-3d-pc\Assets\Materials\perak.026.mat.meta
+D:\Github\simulasi-3d-pc\Assets\Materials\perak.028.mat
+D:\Github\simulasi-3d-pc\Assets\Materials\perak.028.mat.meta
+D:\Github\simulasi-3d-pc\Assets\Materials\perak.mat
+D:\Github\simulasi-3d-pc\Assets\Materials\perak.mat.meta
+D:\Github\simulasi-3d-pc\Assets\Materials\pink.002.mat
+D:\Github\simulasi-3d-pc\Assets\Materials\pink.002.mat.meta
+D:\Github\simulasi-3d-pc\Assets\Materials\pink.004.mat
+D:\Github\simulasi-3d-pc\Assets\Materials\pink.004.mat.meta
+D:\Github\simulasi-3d-pc\Assets\Materials\pink.mat
+D:\Github\simulasi-3d-pc\Assets\Materials\pink.mat.meta
+D:\Github\simulasi-3d-pc\Assets\Materials\Plant.mat
+D:\Github\simulasi-3d-pc\Assets\Materials\Plant.mat.meta
+D:\Github\simulasi-3d-pc\Assets\Materials\Plastic.mat
+D:\Github\simulasi-3d-pc\Assets\Materials\Plastic.mat.meta
+D:\Github\simulasi-3d-pc\Assets\Materials\port plat.mat
+D:\Github\simulasi-3d-pc\Assets\Materials\port plat.mat.meta
+D:\Github\simulasi-3d-pc\Assets\Materials\putih.003.mat
+D:\Github\simulasi-3d-pc\Assets\Materials\putih.003.mat.meta
+D:\Github\simulasi-3d-pc\Assets\Materials\putih.004 1.mat
+D:\Github\simulasi-3d-pc\Assets\Materials\putih.004 1.mat.meta
+D:\Github\simulasi-3d-pc\Assets\Materials\putih.004.mat
+D:\Github\simulasi-3d-pc\Assets\Materials\putih.004.mat.meta
+D:\Github\simulasi-3d-pc\Assets\Materials\putih.005.mat
+D:\Github\simulasi-3d-pc\Assets\Materials\putih.005.mat.meta
+D:\Github\simulasi-3d-pc\Assets\Materials\putih.006.mat
+D:\Github\simulasi-3d-pc\Assets\Materials\putih.006.mat.meta
+D:\Github\simulasi-3d-pc\Assets\Materials\putih.007 1.mat
+D:\Github\simulasi-3d-pc\Assets\Materials\putih.007 1.mat.meta
+D:\Github\simulasi-3d-pc\Assets\Materials\putih.007.mat
+D:\Github\simulasi-3d-pc\Assets\Materials\putih.007.mat.meta
+D:\Github\simulasi-3d-pc\Assets\Materials\putih.008.mat
+D:\Github\simulasi-3d-pc\Assets\Materials\putih.008.mat.meta
+D:\Github\simulasi-3d-pc\Assets\Materials\putih.009.mat
+D:\Github\simulasi-3d-pc\Assets\Materials\putih.009.mat.meta
+D:\Github\simulasi-3d-pc\Assets\Materials\putih.011.mat
+D:\Github\simulasi-3d-pc\Assets\Materials\putih.011.mat.meta
+D:\Github\simulasi-3d-pc\Assets\Materials\putih.012.mat
+D:\Github\simulasi-3d-pc\Assets\Materials\putih.012.mat.meta
+D:\Github\simulasi-3d-pc\Assets\Materials\putih.014.mat
+D:\Github\simulasi-3d-pc\Assets\Materials\putih.014.mat.meta
+D:\Github\simulasi-3d-pc\Assets\Materials\putih.015.mat
+D:\Github\simulasi-3d-pc\Assets\Materials\putih.015.mat.meta
+D:\Github\simulasi-3d-pc\Assets\Materials\putih.016.mat
+D:\Github\simulasi-3d-pc\Assets\Materials\putih.016.mat.meta
+D:\Github\simulasi-3d-pc\Assets\Materials\rgb_cyan.002.mat
+D:\Github\simulasi-3d-pc\Assets\Materials\rgb_cyan.002.mat.meta
+D:\Github\simulasi-3d-pc\Assets\Materials\rgb_emas.004.mat
+D:\Github\simulasi-3d-pc\Assets\Materials\rgb_emas.004.mat.meta
+D:\Github\simulasi-3d-pc\Assets\Materials\Rubber.mat
+D:\Github\simulasi-3d-pc\Assets\Materials\Rubber.mat.meta
+D:\Github\simulasi-3d-pc\Assets\Materials\Screen.mat
+D:\Github\simulasi-3d-pc\Assets\Materials\Screen.mat.meta
+D:\Github\simulasi-3d-pc\Assets\Materials\ShinyPlastic.mat
+D:\Github\simulasi-3d-pc\Assets\Materials\ShinyPlastic.mat.meta
+D:\Github\simulasi-3d-pc\Assets\Materials\Silver.mat
+D:\Github\simulasi-3d-pc\Assets\Materials\Silver.mat.meta
+D:\Github\simulasi-3d-pc\Assets\Materials\Structure.mat
+D:\Github\simulasi-3d-pc\Assets\Materials\Structure.mat.meta
+D:\Github\simulasi-3d-pc\Assets\Materials\Table.mat
+D:\Github\simulasi-3d-pc\Assets\Materials\Table.mat.meta
+D:\Github\simulasi-3d-pc\Assets\Materials\TeksMerah.004.mat
+D:\Github\simulasi-3d-pc\Assets\Materials\TeksMerah.004.mat.meta
+D:\Github\simulasi-3d-pc\Assets\Materials\TeksPutih.004.mat
+D:\Github\simulasi-3d-pc\Assets\Materials\TeksPutih.004.mat.meta
+D:\Github\simulasi-3d-pc\Assets\Materials\tembaga.003.mat
+D:\Github\simulasi-3d-pc\Assets\Materials\tembaga.003.mat.meta
+D:\Github\simulasi-3d-pc\Assets\Materials\tembaga.004 1.mat
+D:\Github\simulasi-3d-pc\Assets\Materials\tembaga.004 1.mat.meta
+D:\Github\simulasi-3d-pc\Assets\Materials\tembaga.004.mat
+D:\Github\simulasi-3d-pc\Assets\Materials\tembaga.004.mat.meta
+D:\Github\simulasi-3d-pc\Assets\Materials\tembaga.005.mat
+D:\Github\simulasi-3d-pc\Assets\Materials\tembaga.005.mat.meta
+D:\Github\simulasi-3d-pc\Assets\Materials\tembaga.016.mat
+D:\Github\simulasi-3d-pc\Assets\Materials\tembaga.016.mat.meta
+D:\Github\simulasi-3d-pc\Assets\Materials\ukiran.001.mat
+D:\Github\simulasi-3d-pc\Assets\Materials\ukiran.001.mat.meta
+D:\Github\simulasi-3d-pc\Assets\Materials\ukiran.002.mat
+D:\Github\simulasi-3d-pc\Assets\Materials\ukiran.002.mat.meta
+D:\Github\simulasi-3d-pc\Assets\Materials\ukiran.mat
+D:\Github\simulasi-3d-pc\Assets\Materials\ukiran.mat.meta
+D:\Github\simulasi-3d-pc\Assets\Materials\Window.mat
+D:\Github\simulasi-3d-pc\Assets\Materials\Window.mat.meta
+D:\Github\simulasi-3d-pc\Assets\Materials\xButton1.mat
+D:\Github\simulasi-3d-pc\Assets\Materials\xButton1.mat.meta
+D:\Github\simulasi-3d-pc\Assets\Materials\yButton1.mat
+D:\Github\simulasi-3d-pc\Assets\Materials\yButton1.mat.meta
+D:\Github\simulasi-3d-pc\Assets\Materials\MainMenu\MM_Floor.mat
+D:\Github\simulasi-3d-pc\Assets\Materials\MainMenu\MM_Floor.mat.meta
+D:\Github\simulasi-3d-pc\Assets\Materials\MainMenu\MM_NeonCyan.mat
+D:\Github\simulasi-3d-pc\Assets\Materials\MainMenu\MM_NeonCyan.mat.meta
+D:\Github\simulasi-3d-pc\Assets\Materials\MainMenu\MM_NeonPink.mat
+D:\Github\simulasi-3d-pc\Assets\Materials\MainMenu\MM_NeonPink.mat.meta
+D:\Github\simulasi-3d-pc\Assets\Materials\MainMenu\MM_Wall.mat
+D:\Github\simulasi-3d-pc\Assets\Materials\MainMenu\MM_Wall.mat.meta
+D:\Github\simulasi-3d-pc\Assets\Models\Cable power i3.fbx
+D:\Github\simulasi-3d-pc\Assets\Models\Cable power i3.fbx.meta
+D:\Github\simulasi-3d-pc\Assets\Models\Cable power i5.fbx
+D:\Github\simulasi-3d-pc\Assets\Models\Cable power i5.fbx.meta
+D:\Github\simulasi-3d-pc\Assets\Models\Cable power i7.fbx
+D:\Github\simulasi-3d-pc\Assets\Models\Cable power i7.fbx.meta
+D:\Github\simulasi-3d-pc\Assets\Models\Casing i3.fbx
+D:\Github\simulasi-3d-pc\Assets\Models\Casing i3.fbx.meta
+D:\Github\simulasi-3d-pc\Assets\Models\Casing i5.fbx
+D:\Github\simulasi-3d-pc\Assets\Models\Casing i5.fbx.meta
+D:\Github\simulasi-3d-pc\Assets\Models\Casing i7.fbx
+D:\Github\simulasi-3d-pc\Assets\Models\Casing i7.fbx.meta
+D:\Github\simulasi-3d-pc\Assets\Models\Cooler CPU i3.fbx
+D:\Github\simulasi-3d-pc\Assets\Models\Cooler CPU i3.fbx.meta
+D:\Github\simulasi-3d-pc\Assets\Models\Cooler CPU i5 (1).fbx
+D:\Github\simulasi-3d-pc\Assets\Models\Cooler CPU i5 (1).fbx.meta
+D:\Github\simulasi-3d-pc\Assets\Models\Cooler CPU i5.fbx
+D:\Github\simulasi-3d-pc\Assets\Models\Cooler CPU i5.fbx.meta
+D:\Github\simulasi-3d-pc\Assets\Models\Cooler CPU i7.fbx
+D:\Github\simulasi-3d-pc\Assets\Models\Cooler CPU i7.fbx.meta
+D:\Github\simulasi-3d-pc\Assets\Models\CPU i3.fbx
+D:\Github\simulasi-3d-pc\Assets\Models\CPU i3.fbx.meta
+D:\Github\simulasi-3d-pc\Assets\Models\CPU i5.fbx
+D:\Github\simulasi-3d-pc\Assets\Models\CPU i5.fbx.meta
+D:\Github\simulasi-3d-pc\Assets\Models\CPU i7.fbx
+D:\Github\simulasi-3d-pc\Assets\Models\CPU i7.fbx.meta
+D:\Github\simulasi-3d-pc\Assets\Models\gamingroomfix.fbx
+D:\Github\simulasi-3d-pc\Assets\Models\gamingroomfix.fbx.meta
+D:\Github\simulasi-3d-pc\Assets\Models\GPU i3.fbx
+D:\Github\simulasi-3d-pc\Assets\Models\GPU i3.fbx.meta
+D:\Github\simulasi-3d-pc\Assets\Models\GPU i5.fbx
+D:\Github\simulasi-3d-pc\Assets\Models\GPU i5.fbx.meta
+D:\Github\simulasi-3d-pc\Assets\Models\GPU i7.fbx
+D:\Github\simulasi-3d-pc\Assets\Models\GPU i7.fbx.meta
+D:\Github\simulasi-3d-pc\Assets\Models\keyboard.fbx
+D:\Github\simulasi-3d-pc\Assets\Models\keyboard.fbx.meta
+D:\Github\simulasi-3d-pc\Assets\Models\Kingston FURY Beast 16GB (2 x 8GB) DDR4-3200.fbx
+D:\Github\simulasi-3d-pc\Assets\Models\Kingston FURY Beast 16GB (2 x 8GB) DDR4-3200.fbx.meta
+D:\Github\simulasi-3d-pc\Assets\Models\Kipas Casing i3.fbx
+D:\Github\simulasi-3d-pc\Assets\Models\Kipas Casing i3.fbx.meta
+D:\Github\simulasi-3d-pc\Assets\Models\Kipas Casing i5.fbx
+D:\Github\simulasi-3d-pc\Assets\Models\Kipas Casing i5.fbx.meta
+D:\Github\simulasi-3d-pc\Assets\Models\Kipas Casing i7.fbx
+D:\Github\simulasi-3d-pc\Assets\Models\Kipas Casing i7.fbx.meta
+D:\Github\simulasi-3d-pc\Assets\Models\lingkungan white office.fbx
+D:\Github\simulasi-3d-pc\Assets\Models\lingkungan white office.fbx.meta
+D:\Github\simulasi-3d-pc\Assets\Models\Monitor.fbx
+D:\Github\simulasi-3d-pc\Assets\Models\Monitor.fbx.meta
+D:\Github\simulasi-3d-pc\Assets\Models\Motherboard detail.fbx
+D:\Github\simulasi-3d-pc\Assets\Models\Motherboard detail.fbx.meta
+D:\Github\simulasi-3d-pc\Assets\Models\mouse.fbx
+D:\Github\simulasi-3d-pc\Assets\Models\mouse.fbx.meta
+D:\Github\simulasi-3d-pc\Assets\Models\PSU i3.fbx
+D:\Github\simulasi-3d-pc\Assets\Models\PSU i3.fbx.meta
+D:\Github\simulasi-3d-pc\Assets\Models\PSU i5.fbx
+D:\Github\simulasi-3d-pc\Assets\Models\PSU i5.fbx.meta
+D:\Github\simulasi-3d-pc\Assets\Models\PSU i7.fbx
+D:\Github\simulasi-3d-pc\Assets\Models\PSU i7.fbx.meta
+D:\Github\simulasi-3d-pc\Assets\Models\SSD i3.fbx
+D:\Github\simulasi-3d-pc\Assets\Models\SSD i3.fbx.meta
+D:\Github\simulasi-3d-pc\Assets\Models\SSD i5.fbx
+D:\Github\simulasi-3d-pc\Assets\Models\SSD i5.fbx.meta
+D:\Github\simulasi-3d-pc\Assets\Models\SSD i7.fbx
+D:\Github\simulasi-3d-pc\Assets\Models\SSD i7.fbx.meta
+D:\Github\simulasi-3d-pc\Assets\Models\white office gitu konsepnya.fbx
+D:\Github\simulasi-3d-pc\Assets\Models\white office gitu konsepnya.fbx.meta
+D:\Github\simulasi-3d-pc\Assets\Prefabs\AssemblyStation.prefab
+D:\Github\simulasi-3d-pc\Assets\Prefabs\AssemblyStation.prefab.meta
+D:\Github\simulasi-3d-pc\Assets\Prefabs\Cable power i3.prefab
+D:\Github\simulasi-3d-pc\Assets\Prefabs\Cable power i3.prefab.meta
+D:\Github\simulasi-3d-pc\Assets\Prefabs\Cable power i5.prefab
+D:\Github\simulasi-3d-pc\Assets\Prefabs\Cable power i5.prefab.meta
+D:\Github\simulasi-3d-pc\Assets\Prefabs\Cable power i7.prefab
+D:\Github\simulasi-3d-pc\Assets\Prefabs\Cable power i7.prefab.meta
+D:\Github\simulasi-3d-pc\Assets\Prefabs\Casing i3.prefab
+D:\Github\simulasi-3d-pc\Assets\Prefabs\Casing i3.prefab.meta
+D:\Github\simulasi-3d-pc\Assets\Prefabs\Casing i5.prefab
+D:\Github\simulasi-3d-pc\Assets\Prefabs\Casing i5.prefab.meta
+D:\Github\simulasi-3d-pc\Assets\Prefabs\Casing i7.prefab
+D:\Github\simulasi-3d-pc\Assets\Prefabs\Casing i7.prefab.meta
+D:\Github\simulasi-3d-pc\Assets\Prefabs\Cooler CPU i3.prefab
+D:\Github\simulasi-3d-pc\Assets\Prefabs\Cooler CPU i3.prefab.meta
+D:\Github\simulasi-3d-pc\Assets\Prefabs\Cooler CPU i5 (1).prefab
+D:\Github\simulasi-3d-pc\Assets\Prefabs\Cooler CPU i5 (1).prefab.meta
+D:\Github\simulasi-3d-pc\Assets\Prefabs\Cooler CPU i5.prefab
+D:\Github\simulasi-3d-pc\Assets\Prefabs\Cooler CPU i5.prefab.meta
+D:\Github\simulasi-3d-pc\Assets\Prefabs\Cooler CPU i7.prefab
+D:\Github\simulasi-3d-pc\Assets\Prefabs\Cooler CPU i7.prefab.meta
+D:\Github\simulasi-3d-pc\Assets\Prefabs\CPU i3.prefab
+D:\Github\simulasi-3d-pc\Assets\Prefabs\CPU i3.prefab.meta
+D:\Github\simulasi-3d-pc\Assets\Prefabs\CPU i5.prefab
+D:\Github\simulasi-3d-pc\Assets\Prefabs\CPU i5.prefab.meta
+D:\Github\simulasi-3d-pc\Assets\Prefabs\CPU i7.prefab
+D:\Github\simulasi-3d-pc\Assets\Prefabs\CPU i7.prefab.meta
+D:\Github\simulasi-3d-pc\Assets\Prefabs\gamingroomfix.prefab
+D:\Github\simulasi-3d-pc\Assets\Prefabs\gamingroomfix.prefab.meta
+D:\Github\simulasi-3d-pc\Assets\Prefabs\GPU i3.prefab
+D:\Github\simulasi-3d-pc\Assets\Prefabs\GPU i3.prefab.meta
+D:\Github\simulasi-3d-pc\Assets\Prefabs\GPU i5.prefab
+D:\Github\simulasi-3d-pc\Assets\Prefabs\GPU i5.prefab.meta
+D:\Github\simulasi-3d-pc\Assets\Prefabs\GPU i7.prefab
+D:\Github\simulasi-3d-pc\Assets\Prefabs\GPU i7.prefab.meta
+D:\Github\simulasi-3d-pc\Assets\Prefabs\keyboard.prefab
+D:\Github\simulasi-3d-pc\Assets\Prefabs\keyboard.prefab.meta
+D:\Github\simulasi-3d-pc\Assets\Prefabs\Kingston FURY Beast 16GB (2 x 8GB) DDR4-3200.prefab
+D:\Github\simulasi-3d-pc\Assets\Prefabs\Kingston FURY Beast 16GB (2 x 8GB) DDR4-3200.prefab.meta
+D:\Github\simulasi-3d-pc\Assets\Prefabs\Kipas Casing i3.prefab
+D:\Github\simulasi-3d-pc\Assets\Prefabs\Kipas Casing i3.prefab.meta
+D:\Github\simulasi-3d-pc\Assets\Prefabs\Kipas Casing i5.prefab
+D:\Github\simulasi-3d-pc\Assets\Prefabs\Kipas Casing i5.prefab.meta
+D:\Github\simulasi-3d-pc\Assets\Prefabs\Kipas Casing i7.prefab
+D:\Github\simulasi-3d-pc\Assets\Prefabs\Kipas Casing i7.prefab.meta
+D:\Github\simulasi-3d-pc\Assets\Prefabs\Monitor.prefab
+D:\Github\simulasi-3d-pc\Assets\Prefabs\Monitor.prefab.meta
+D:\Github\simulasi-3d-pc\Assets\Prefabs\Motherboard detail.prefab
+D:\Github\simulasi-3d-pc\Assets\Prefabs\Motherboard detail.prefab.meta
+D:\Github\simulasi-3d-pc\Assets\Prefabs\mouse.prefab
+D:\Github\simulasi-3d-pc\Assets\Prefabs\mouse.prefab.meta
+D:\Github\simulasi-3d-pc\Assets\Prefabs\PartCard.prefab
+D:\Github\simulasi-3d-pc\Assets\Prefabs\PartCard.prefab.meta
+D:\Github\simulasi-3d-pc\Assets\Prefabs\PSU i3.prefab
+D:\Github\simulasi-3d-pc\Assets\Prefabs\PSU i3.prefab.meta
+D:\Github\simulasi-3d-pc\Assets\Prefabs\PSU i5.prefab
+D:\Github\simulasi-3d-pc\Assets\Prefabs\PSU i5.prefab.meta
+D:\Github\simulasi-3d-pc\Assets\Prefabs\PSU i7.prefab
+D:\Github\simulasi-3d-pc\Assets\Prefabs\PSU i7.prefab.meta
+D:\Github\simulasi-3d-pc\Assets\Prefabs\SSD i3.prefab
+D:\Github\simulasi-3d-pc\Assets\Prefabs\SSD i3.prefab.meta
+D:\Github\simulasi-3d-pc\Assets\Prefabs\SSD i5.prefab
+D:\Github\simulasi-3d-pc\Assets\Prefabs\SSD i5.prefab.meta
+D:\Github\simulasi-3d-pc\Assets\Prefabs\SSD i7.prefab
+D:\Github\simulasi-3d-pc\Assets\Prefabs\SSD i7.prefab.meta
+D:\Github\simulasi-3d-pc\Assets\Prefabs\white office gitu konsepnya.prefab
+D:\Github\simulasi-3d-pc\Assets\Prefabs\white office gitu konsepnya.prefab.meta
+D:\Github\simulasi-3d-pc\Assets\Samples\XR Interaction Toolkit
+D:\Github\simulasi-3d-pc\Assets\Samples\XR Interaction Toolkit.meta
+D:\Github\simulasi-3d-pc\Assets\Samples\XR Interaction Toolkit\2.6.5
+D:\Github\simulasi-3d-pc\Assets\Samples\XR Interaction Toolkit\2.6.5.meta
+D:\Github\simulasi-3d-pc\Assets\Samples\XR Interaction Toolkit\2.6.5\Starter Assets
+D:\Github\simulasi-3d-pc\Assets\Samples\XR Interaction Toolkit\2.6.5\Starter Assets.meta
+D:\Github\simulasi-3d-pc\Assets\Samples\XR Interaction Toolkit\2.6.5\Starter Assets\.sample.json
+D:\Github\simulasi-3d-pc\Assets\Samples\XR Interaction Toolkit\2.6.5\Starter Assets\Animations
+D:\Github\simulasi-3d-pc\Assets\Samples\XR Interaction Toolkit\2.6.5\Starter Assets\Animations.meta
+D:\Github\simulasi-3d-pc\Assets\Samples\XR Interaction Toolkit\2.6.5\Starter Assets\DemoScene.unity
+D:\Github\simulasi-3d-pc\Assets\Samples\XR Interaction Toolkit\2.6.5\Starter Assets\DemoScene.unity.meta
+D:\Github\simulasi-3d-pc\Assets\Samples\XR Interaction Toolkit\2.6.5\Starter Assets\DemoSceneAssets
+D:\Github\simulasi-3d-pc\Assets\Samples\XR Interaction Toolkit\2.6.5\Starter Assets\DemoSceneAssets.meta
+D:\Github\simulasi-3d-pc\Assets\Samples\XR Interaction Toolkit\2.6.5\Starter Assets\Editor
+D:\Github\simulasi-3d-pc\Assets\Samples\XR Interaction Toolkit\2.6.5\Starter Assets\Editor.meta
+D:\Github\simulasi-3d-pc\Assets\Samples\XR Interaction Toolkit\2.6.5\Starter Assets\Filters
+D:\Github\simulasi-3d-pc\Assets\Samples\XR Interaction Toolkit\2.6.5\Starter Assets\Filters.meta
+D:\Github\simulasi-3d-pc\Assets\Samples\XR Interaction Toolkit\2.6.5\Starter Assets\Materials
+D:\Github\simulasi-3d-pc\Assets\Samples\XR Interaction Toolkit\2.6.5\Starter Assets\Materials.meta
+D:\Github\simulasi-3d-pc\Assets\Samples\XR Interaction Toolkit\2.6.5\Starter Assets\Models
+D:\Github\simulasi-3d-pc\Assets\Samples\XR Interaction Toolkit\2.6.5\Starter Assets\Models.meta
+D:\Github\simulasi-3d-pc\Assets\Samples\XR Interaction Toolkit\2.6.5\Starter Assets\Prefabs
+D:\Github\simulasi-3d-pc\Assets\Samples\XR Interaction Toolkit\2.6.5\Starter Assets\Prefabs.meta
+D:\Github\simulasi-3d-pc\Assets\Samples\XR Interaction Toolkit\2.6.5\Starter Assets\Presets
+D:\Github\simulasi-3d-pc\Assets\Samples\XR Interaction Toolkit\2.6.5\Starter Assets\Presets.meta
+D:\Github\simulasi-3d-pc\Assets\Samples\XR Interaction Toolkit\2.6.5\Starter Assets\Scripts
+D:\Github\simulasi-3d-pc\Assets\Samples\XR Interaction Toolkit\2.6.5\Starter Assets\Scripts.meta
+D:\Github\simulasi-3d-pc\Assets\Samples\XR Interaction Toolkit\2.6.5\Starter Assets\Shaders
+D:\Github\simulasi-3d-pc\Assets\Samples\XR Interaction Toolkit\2.6.5\Starter Assets\Shaders.meta
+D:\Github\simulasi-3d-pc\Assets\Samples\XR Interaction Toolkit\2.6.5\Starter Assets\Tunneling Vignette
+D:\Github\simulasi-3d-pc\Assets\Samples\XR Interaction Toolkit\2.6.5\Starter Assets\Tunneling Vignette.meta
+D:\Github\simulasi-3d-pc\Assets\Samples\XR Interaction Toolkit\2.6.5\Starter Assets\Unity.XR.Interaction.Toolkit.Samples.StarterAssets.asmdef
+D:\Github\simulasi-3d-pc\Assets\Samples\XR Interaction Toolkit\2.6.5\Starter Assets\Unity.XR.Interaction.Toolkit.Samples.StarterAssets.asmdef.meta
+D:\Github\simulasi-3d-pc\Assets\Samples\XR Interaction Toolkit\2.6.5\Starter Assets\XRI Default Input Actions.inputactions
+D:\Github\simulasi-3d-pc\Assets\Samples\XR Interaction Toolkit\2.6.5\Starter Assets\XRI Default Input Actions.inputactions.meta
+D:\Github\simulasi-3d-pc\Assets\Samples\XR Interaction Toolkit\2.6.5\Starter Assets\Animations\ArrowBounce.anim
+D:\Github\simulasi-3d-pc\Assets\Samples\XR Interaction Toolkit\2.6.5\Starter Assets\Animations\ArrowBounce.anim.meta
+D:\Github\simulasi-3d-pc\Assets\Samples\XR Interaction Toolkit\2.6.5\Starter Assets\Animations\Climb Teleport Arrow.controller
+D:\Github\simulasi-3d-pc\Assets\Samples\XR Interaction Toolkit\2.6.5\Starter Assets\Animations\Climb Teleport Arrow.controller.meta
+D:\Github\simulasi-3d-pc\Assets\Samples\XR Interaction Toolkit\2.6.5\Starter Assets\DemoSceneAssets\AffordanceThemes
+D:\Github\simulasi-3d-pc\Assets\Samples\XR Interaction Toolkit\2.6.5\Starter Assets\DemoSceneAssets\AffordanceThemes.meta
+D:\Github\simulasi-3d-pc\Assets\Samples\XR Interaction Toolkit\2.6.5\Starter Assets\DemoSceneAssets\Audio
+D:\Github\simulasi-3d-pc\Assets\Samples\XR Interaction Toolkit\2.6.5\Starter Assets\DemoSceneAssets\Audio.meta
+D:\Github\simulasi-3d-pc\Assets\Samples\XR Interaction Toolkit\2.6.5\Starter Assets\DemoSceneAssets\Models
+D:\Github\simulasi-3d-pc\Assets\Samples\XR Interaction Toolkit\2.6.5\Starter Assets\DemoSceneAssets\Models.meta
+D:\Github\simulasi-3d-pc\Assets\Samples\XR Interaction Toolkit\2.6.5\Starter Assets\DemoSceneAssets\Prefabs
+D:\Github\simulasi-3d-pc\Assets\Samples\XR Interaction Toolkit\2.6.5\Starter Assets\DemoSceneAssets\Prefabs.meta
+D:\Github\simulasi-3d-pc\Assets\Samples\XR Interaction Toolkit\2.6.5\Starter Assets\DemoSceneAssets\Scripts
+D:\Github\simulasi-3d-pc\Assets\Samples\XR Interaction Toolkit\2.6.5\Starter Assets\DemoSceneAssets\Scripts.meta
+D:\Github\simulasi-3d-pc\Assets\Samples\XR Interaction Toolkit\2.6.5\Starter Assets\DemoSceneAssets\Settings
+D:\Github\simulasi-3d-pc\Assets\Samples\XR Interaction Toolkit\2.6.5\Starter Assets\DemoSceneAssets\Settings.meta
+D:\Github\simulasi-3d-pc\Assets\Samples\XR Interaction Toolkit\2.6.5\Starter Assets\DemoSceneAssets\Sprites
+D:\Github\simulasi-3d-pc\Assets\Samples\XR Interaction Toolkit\2.6.5\Starter Assets\DemoSceneAssets\Sprites.meta
+D:\Github\simulasi-3d-pc\Assets\Samples\XR Interaction Toolkit\2.6.5\Starter Assets\DemoSceneAssets\AffordanceThemes\InteractionColorAffordanceTheme.asset
+D:\Github\simulasi-3d-pc\Assets\Samples\XR Interaction Toolkit\2.6.5\Starter Assets\DemoSceneAssets\AffordanceThemes\InteractionColorAffordanceTheme.asset.meta
+D:\Github\simulasi-3d-pc\Assets\Samples\XR Interaction Toolkit\2.6.5\Starter Assets\DemoSceneAssets\Audio\Button Pop.wav
+D:\Github\simulasi-3d-pc\Assets\Samples\XR Interaction Toolkit\2.6.5\Starter Assets\DemoSceneAssets\Audio\Button Pop.wav.meta
+D:\Github\simulasi-3d-pc\Assets\Samples\XR Interaction Toolkit\2.6.5\Starter Assets\DemoSceneAssets\Models\Primitive_Pyramid.fbx
+D:\Github\simulasi-3d-pc\Assets\Samples\XR Interaction Toolkit\2.6.5\Starter Assets\DemoSceneAssets\Models\Primitive_Pyramid.fbx.meta
+D:\Github\simulasi-3d-pc\Assets\Samples\XR Interaction Toolkit\2.6.5\Starter Assets\DemoSceneAssets\Models\Primitive_Torus.fbx
+D:\Github\simulasi-3d-pc\Assets\Samples\XR Interaction Toolkit\2.6.5\Starter Assets\DemoSceneAssets\Models\Primitive_Torus.fbx.meta
+D:\Github\simulasi-3d-pc\Assets\Samples\XR Interaction Toolkit\2.6.5\Starter Assets\DemoSceneAssets\Models\PushButton.fbx
+D:\Github\simulasi-3d-pc\Assets\Samples\XR Interaction Toolkit\2.6.5\Starter Assets\DemoSceneAssets\Models\PushButton.fbx.meta
+D:\Github\simulasi-3d-pc\Assets\Samples\XR Interaction Toolkit\2.6.5\Starter Assets\DemoSceneAssets\Prefabs\Climb
+D:\Github\simulasi-3d-pc\Assets\Samples\XR Interaction Toolkit\2.6.5\Starter Assets\DemoSceneAssets\Prefabs\Climb.meta
+D:\Github\simulasi-3d-pc\Assets\Samples\XR Interaction Toolkit\2.6.5\Starter Assets\DemoSceneAssets\Prefabs\Interactables
+D:\Github\simulasi-3d-pc\Assets\Samples\XR Interaction Toolkit\2.6.5\Starter Assets\DemoSceneAssets\Prefabs\Interactables Sample.prefab
+D:\Github\simulasi-3d-pc\Assets\Samples\XR Interaction Toolkit\2.6.5\Starter Assets\DemoSceneAssets\Prefabs\Interactables Sample.prefab.meta
+D:\Github\simulasi-3d-pc\Assets\Samples\XR Interaction Toolkit\2.6.5\Starter Assets\DemoSceneAssets\Prefabs\Interactables.meta
+D:\Github\simulasi-3d-pc\Assets\Samples\XR Interaction Toolkit\2.6.5\Starter Assets\DemoSceneAssets\Prefabs\Teleport
+D:\Github\simulasi-3d-pc\Assets\Samples\XR Interaction Toolkit\2.6.5\Starter Assets\DemoSceneAssets\Prefabs\Teleport.meta
+D:\Github\simulasi-3d-pc\Assets\Samples\XR Interaction Toolkit\2.6.5\Starter Assets\DemoSceneAssets\Prefabs\Teleportation Environment.prefab
+D:\Github\simulasi-3d-pc\Assets\Samples\XR Interaction Toolkit\2.6.5\Starter Assets\DemoSceneAssets\Prefabs\Teleportation Environment.prefab.meta
+D:\Github\simulasi-3d-pc\Assets\Samples\XR Interaction Toolkit\2.6.5\Starter Assets\DemoSceneAssets\Prefabs\UI
+D:\Github\simulasi-3d-pc\Assets\Samples\XR Interaction Toolkit\2.6.5\Starter Assets\DemoSceneAssets\Prefabs\UI Sample.prefab
+D:\Github\simulasi-3d-pc\Assets\Samples\XR Interaction Toolkit\2.6.5\Starter Assets\DemoSceneAssets\Prefabs\UI Sample.prefab.meta
+D:\Github\simulasi-3d-pc\Assets\Samples\XR Interaction Toolkit\2.6.5\Starter Assets\DemoSceneAssets\Prefabs\UI.meta
+D:\Github\simulasi-3d-pc\Assets\Samples\XR Interaction Toolkit\2.6.5\Starter Assets\DemoSceneAssets\Prefabs\Climb\Climb Sample.prefab
+D:\Github\simulasi-3d-pc\Assets\Samples\XR Interaction Toolkit\2.6.5\Starter Assets\DemoSceneAssets\Prefabs\Climb\Climb Sample.prefab.meta
+D:\Github\simulasi-3d-pc\Assets\Samples\XR Interaction Toolkit\2.6.5\Starter Assets\DemoSceneAssets\Prefabs\Climb\Climbing Wall.prefab
+D:\Github\simulasi-3d-pc\Assets\Samples\XR Interaction Toolkit\2.6.5\Starter Assets\DemoSceneAssets\Prefabs\Climb\Climbing Wall.prefab.meta
+D:\Github\simulasi-3d-pc\Assets\Samples\XR Interaction Toolkit\2.6.5\Starter Assets\DemoSceneAssets\Prefabs\Climb\Ladder.prefab
+D:\Github\simulasi-3d-pc\Assets\Samples\XR Interaction Toolkit\2.6.5\Starter Assets\DemoSceneAssets\Prefabs\Climb\Ladder.prefab.meta
+D:\Github\simulasi-3d-pc\Assets\Samples\XR Interaction Toolkit\2.6.5\Starter Assets\DemoSceneAssets\Prefabs\Climb\Multi Floor Ladder.prefab
+D:\Github\simulasi-3d-pc\Assets\Samples\XR Interaction Toolkit\2.6.5\Starter Assets\DemoSceneAssets\Prefabs\Climb\Multi Floor Ladder.prefab.meta
+D:\Github\simulasi-3d-pc\Assets\Samples\XR Interaction Toolkit\2.6.5\Starter Assets\DemoSceneAssets\Prefabs\Climb\Multi-Anchor Teleport Reticle.prefab
+D:\Github\simulasi-3d-pc\Assets\Samples\XR Interaction Toolkit\2.6.5\Starter Assets\DemoSceneAssets\Prefabs\Climb\Multi-Anchor Teleport Reticle.prefab.meta
+D:\Github\simulasi-3d-pc\Assets\Samples\XR Interaction Toolkit\2.6.5\Starter Assets\DemoSceneAssets\Prefabs\Climb\Single Floor Ladder.prefab
+D:\Github\simulasi-3d-pc\Assets\Samples\XR Interaction Toolkit\2.6.5\Starter Assets\DemoSceneAssets\Prefabs\Climb\Single Floor Ladder.prefab.meta
+D:\Github\simulasi-3d-pc\Assets\Samples\XR Interaction Toolkit\2.6.5\Starter Assets\DemoSceneAssets\Prefabs\Interactables\Interactable Instant Pyramid.prefab
+D:\Github\simulasi-3d-pc\Assets\Samples\XR Interaction Toolkit\2.6.5\Starter Assets\DemoSceneAssets\Prefabs\Interactables\Interactable Instant Pyramid.prefab.meta
+D:\Github\simulasi-3d-pc\Assets\Samples\XR Interaction Toolkit\2.6.5\Starter Assets\DemoSceneAssets\Prefabs\Interactables\Interactable Kinematic Torus.prefab
+D:\Github\simulasi-3d-pc\Assets\Samples\XR Interaction Toolkit\2.6.5\Starter Assets\DemoSceneAssets\Prefabs\Interactables\Interactable Kinematic Torus.prefab.meta
+D:\Github\simulasi-3d-pc\Assets\Samples\XR Interaction Toolkit\2.6.5\Starter Assets\DemoSceneAssets\Prefabs\Interactables\Interactable Simple Cube.prefab
+D:\Github\simulasi-3d-pc\Assets\Samples\XR Interaction Toolkit\2.6.5\Starter Assets\DemoSceneAssets\Prefabs\Interactables\Interactable Simple Cube.prefab.meta
+D:\Github\simulasi-3d-pc\Assets\Samples\XR Interaction Toolkit\2.6.5\Starter Assets\DemoSceneAssets\Prefabs\Interactables\Interactable Velocity Tracked Wedge.prefab
+D:\Github\simulasi-3d-pc\Assets\Samples\XR Interaction Toolkit\2.6.5\Starter Assets\DemoSceneAssets\Prefabs\Interactables\Interactable Velocity Tracked Wedge.prefab.meta
+D:\Github\simulasi-3d-pc\Assets\Samples\XR Interaction Toolkit\2.6.5\Starter Assets\DemoSceneAssets\Prefabs\Interactables\Interaction Affordance.prefab
+D:\Github\simulasi-3d-pc\Assets\Samples\XR Interaction Toolkit\2.6.5\Starter Assets\DemoSceneAssets\Prefabs\Interactables\Interaction Affordance.prefab.meta
+D:\Github\simulasi-3d-pc\Assets\Samples\XR Interaction Toolkit\2.6.5\Starter Assets\DemoSceneAssets\Prefabs\Interactables\Push Button.prefab
+D:\Github\simulasi-3d-pc\Assets\Samples\XR Interaction Toolkit\2.6.5\Starter Assets\DemoSceneAssets\Prefabs\Interactables\Push Button.prefab.meta
+D:\Github\simulasi-3d-pc\Assets\Samples\XR Interaction Toolkit\2.6.5\Starter Assets\DemoSceneAssets\Prefabs\Teleport\Snapping Teleport Anchor.prefab
+D:\Github\simulasi-3d-pc\Assets\Samples\XR Interaction Toolkit\2.6.5\Starter Assets\DemoSceneAssets\Prefabs\Teleport\Snapping Teleport Anchor.prefab.meta
+D:\Github\simulasi-3d-pc\Assets\Samples\XR Interaction Toolkit\2.6.5\Starter Assets\DemoSceneAssets\Prefabs\Teleport\Teleport Anchor.prefab
+D:\Github\simulasi-3d-pc\Assets\Samples\XR Interaction Toolkit\2.6.5\Starter Assets\DemoSceneAssets\Prefabs\Teleport\Teleport Anchor.prefab.meta
+D:\Github\simulasi-3d-pc\Assets\Samples\XR Interaction Toolkit\2.6.5\Starter Assets\DemoSceneAssets\Prefabs\Teleport\Teleport Area.prefab
+D:\Github\simulasi-3d-pc\Assets\Samples\XR Interaction Toolkit\2.6.5\Starter Assets\DemoSceneAssets\Prefabs\Teleport\Teleport Area.prefab.meta
+D:\Github\simulasi-3d-pc\Assets\Samples\XR Interaction Toolkit\2.6.5\Starter Assets\DemoSceneAssets\Prefabs\UI\Dropdown.prefab
+D:\Github\simulasi-3d-pc\Assets\Samples\XR Interaction Toolkit\2.6.5\Starter Assets\DemoSceneAssets\Prefabs\UI\Dropdown.prefab.meta
+D:\Github\simulasi-3d-pc\Assets\Samples\XR Interaction Toolkit\2.6.5\Starter Assets\DemoSceneAssets\Prefabs\UI\Icon Button.prefab
+D:\Github\simulasi-3d-pc\Assets\Samples\XR Interaction Toolkit\2.6.5\Starter Assets\DemoSceneAssets\Prefabs\UI\Icon Button.prefab.meta
+D:\Github\simulasi-3d-pc\Assets\Samples\XR Interaction Toolkit\2.6.5\Starter Assets\DemoSceneAssets\Prefabs\UI\Icon Toggle.prefab
+D:\Github\simulasi-3d-pc\Assets\Samples\XR Interaction Toolkit\2.6.5\Starter Assets\DemoSceneAssets\Prefabs\UI\Icon Toggle.prefab.meta
+D:\Github\simulasi-3d-pc\Assets\Samples\XR Interaction Toolkit\2.6.5\Starter Assets\DemoSceneAssets\Prefabs\UI\Interactive Controls.prefab
+D:\Github\simulasi-3d-pc\Assets\Samples\XR Interaction Toolkit\2.6.5\Starter Assets\DemoSceneAssets\Prefabs\UI\Interactive Controls.prefab.meta
+D:\Github\simulasi-3d-pc\Assets\Samples\XR Interaction Toolkit\2.6.5\Starter Assets\DemoSceneAssets\Prefabs\UI\MinMaxSlider.prefab
+D:\Github\simulasi-3d-pc\Assets\Samples\XR Interaction Toolkit\2.6.5\Starter Assets\DemoSceneAssets\Prefabs\UI\MinMaxSlider.prefab.meta
+D:\Github\simulasi-3d-pc\Assets\Samples\XR Interaction Toolkit\2.6.5\Starter Assets\DemoSceneAssets\Prefabs\UI\ModalSingleButton.prefab
+D:\Github\simulasi-3d-pc\Assets\Samples\XR Interaction Toolkit\2.6.5\Starter Assets\DemoSceneAssets\Prefabs\UI\ModalSingleButton.prefab.meta
+D:\Github\simulasi-3d-pc\Assets\Samples\XR Interaction Toolkit\2.6.5\Starter Assets\DemoSceneAssets\Prefabs\UI\Scroll UI Sample.prefab
+D:\Github\simulasi-3d-pc\Assets\Samples\XR Interaction Toolkit\2.6.5\Starter Assets\DemoSceneAssets\Prefabs\UI\Scroll UI Sample.prefab.meta
+D:\Github\simulasi-3d-pc\Assets\Samples\XR Interaction Toolkit\2.6.5\Starter Assets\DemoSceneAssets\Prefabs\UI\Text Toggle.prefab
+D:\Github\simulasi-3d-pc\Assets\Samples\XR Interaction Toolkit\2.6.5\Starter Assets\DemoSceneAssets\Prefabs\UI\Text Toggle.prefab.meta
+D:\Github\simulasi-3d-pc\Assets\Samples\XR Interaction Toolkit\2.6.5\Starter Assets\DemoSceneAssets\Prefabs\UI\TextButton.prefab
+D:\Github\simulasi-3d-pc\Assets\Samples\XR Interaction Toolkit\2.6.5\Starter Assets\DemoSceneAssets\Prefabs\UI\TextButton.prefab.meta
+D:\Github\simulasi-3d-pc\Assets\Samples\XR Interaction Toolkit\2.6.5\Starter Assets\DemoSceneAssets\Scripts\IncrementUIText.cs
+D:\Github\simulasi-3d-pc\Assets\Samples\XR Interaction Toolkit\2.6.5\Starter Assets\DemoSceneAssets\Scripts\IncrementUIText.cs.meta
+D:\Github\simulasi-3d-pc\Assets\Samples\XR Interaction Toolkit\2.6.5\Starter Assets\DemoSceneAssets\Scripts\MultiAnchorTeleportReticle.cs
+D:\Github\simulasi-3d-pc\Assets\Samples\XR Interaction Toolkit\2.6.5\Starter Assets\DemoSceneAssets\Scripts\MultiAnchorTeleportReticle.cs.meta
+D:\Github\simulasi-3d-pc\Assets\Samples\XR Interaction Toolkit\2.6.5\Starter Assets\DemoSceneAssets\Scripts\TeleportVolumeAnchorAffordanceStateLink.cs
+D:\Github\simulasi-3d-pc\Assets\Samples\XR Interaction Toolkit\2.6.5\Starter Assets\DemoSceneAssets\Scripts\TeleportVolumeAnchorAffordanceStateLink.cs.meta
+D:\Github\simulasi-3d-pc\Assets\Samples\XR Interaction Toolkit\2.6.5\Starter Assets\DemoSceneAssets\Settings\FurthestGazedAtTeleportAnchorFilter.asset
+D:\Github\simulasi-3d-pc\Assets\Samples\XR Interaction Toolkit\2.6.5\Starter Assets\DemoSceneAssets\Settings\FurthestGazedAtTeleportAnchorFilter.asset.meta
+D:\Github\simulasi-3d-pc\Assets\Samples\XR Interaction Toolkit\2.6.5\Starter Assets\DemoSceneAssets\Settings\MultiFloorTeleportVolumeDestinationSettings.asset
+D:\Github\simulasi-3d-pc\Assets\Samples\XR Interaction Toolkit\2.6.5\Starter Assets\DemoSceneAssets\Settings\MultiFloorTeleportVolumeDestinationSettings.asset.meta
+D:\Github\simulasi-3d-pc\Assets\Samples\XR Interaction Toolkit\2.6.5\Starter Assets\DemoSceneAssets\Sprites\Asset.png
+D:\Github\simulasi-3d-pc\Assets\Samples\XR Interaction Toolkit\2.6.5\Starter Assets\DemoSceneAssets\Sprites\Asset.png.meta
+D:\Github\simulasi-3d-pc\Assets\Samples\XR Interaction Toolkit\2.6.5\Starter Assets\DemoSceneAssets\Sprites\Checkmark.png
+D:\Github\simulasi-3d-pc\Assets\Samples\XR Interaction Toolkit\2.6.5\Starter Assets\DemoSceneAssets\Sprites\Checkmark.png.meta
+D:\Github\simulasi-3d-pc\Assets\Samples\XR Interaction Toolkit\2.6.5\Starter Assets\DemoSceneAssets\Sprites\Circle_60x60 Outline 4.png
+D:\Github\simulasi-3d-pc\Assets\Samples\XR Interaction Toolkit\2.6.5\Starter Assets\DemoSceneAssets\Sprites\Circle_60x60 Outline 4.png.meta
+D:\Github\simulasi-3d-pc\Assets\Samples\XR Interaction Toolkit\2.6.5\Starter Assets\DemoSceneAssets\Sprites\Circle_60x60_Horizontal.png
+D:\Github\simulasi-3d-pc\Assets\Samples\XR Interaction Toolkit\2.6.5\Starter Assets\DemoSceneAssets\Sprites\Circle_60x60_Horizontal.png.meta
+D:\Github\simulasi-3d-pc\Assets\Samples\XR Interaction Toolkit\2.6.5\Starter Assets\DemoSceneAssets\Sprites\Forward.png
+D:\Github\simulasi-3d-pc\Assets\Samples\XR Interaction Toolkit\2.6.5\Starter Assets\DemoSceneAssets\Sprites\Forward.png.meta
+D:\Github\simulasi-3d-pc\Assets\Samples\XR Interaction Toolkit\2.6.5\Starter Assets\DemoSceneAssets\Sprites\LegibilityMask.png
+D:\Github\simulasi-3d-pc\Assets\Samples\XR Interaction Toolkit\2.6.5\Starter Assets\DemoSceneAssets\Sprites\LegibilityMask.png.meta
+D:\Github\simulasi-3d-pc\Assets\Samples\XR Interaction Toolkit\2.6.5\Starter Assets\DemoSceneAssets\Sprites\Round Radius 4 Outline.png
+D:\Github\simulasi-3d-pc\Assets\Samples\XR Interaction Toolkit\2.6.5\Starter Assets\DemoSceneAssets\Sprites\Round Radius 4 Outline.png.meta
+D:\Github\simulasi-3d-pc\Assets\Samples\XR Interaction Toolkit\2.6.5\Starter Assets\DemoSceneAssets\Sprites\Round Radius 4.png
+D:\Github\simulasi-3d-pc\Assets\Samples\XR Interaction Toolkit\2.6.5\Starter Assets\DemoSceneAssets\Sprites\Round Radius 4.png.meta
+D:\Github\simulasi-3d-pc\Assets\Samples\XR Interaction Toolkit\2.6.5\Starter Assets\Editor\Scripts
+D:\Github\simulasi-3d-pc\Assets\Samples\XR Interaction Toolkit\2.6.5\Starter Assets\Editor\Scripts.meta
+D:\Github\simulasi-3d-pc\Assets\Samples\XR Interaction Toolkit\2.6.5\Starter Assets\Editor\Unity.XR.Interaction.Toolkit.Samples.StarterAssets.Editor.asmdef
+D:\Github\simulasi-3d-pc\Assets\Samples\XR Interaction Toolkit\2.6.5\Starter Assets\Editor\Unity.XR.Interaction.Toolkit.Samples.StarterAssets.Editor.asmdef.meta
+D:\Github\simulasi-3d-pc\Assets\Samples\XR Interaction Toolkit\2.6.5\Starter Assets\Editor\Scripts\StarterAssetsSampleProjectValidation.cs
+D:\Github\simulasi-3d-pc\Assets\Samples\XR Interaction Toolkit\2.6.5\Starter Assets\Editor\Scripts\StarterAssetsSampleProjectValidation.cs.meta
+D:\Github\simulasi-3d-pc\Assets\Samples\XR Interaction Toolkit\2.6.5\Starter Assets\Filters\AnyGazedAtTeleportAnchorFilter.asset
+D:\Github\simulasi-3d-pc\Assets\Samples\XR Interaction Toolkit\2.6.5\Starter Assets\Filters\AnyGazedAtTeleportAnchorFilter.asset.meta
+D:\Github\simulasi-3d-pc\Assets\Samples\XR Interaction Toolkit\2.6.5\Starter Assets\Materials\UI-NoZTest.mat
+D:\Github\simulasi-3d-pc\Assets\Samples\XR Interaction Toolkit\2.6.5\Starter Assets\Materials\UI-NoZTest.mat.meta
+D:\Github\simulasi-3d-pc\Assets\Samples\XR Interaction Toolkit\2.6.5\Starter Assets\Models\Primitive_Cylinder.fbx
+D:\Github\simulasi-3d-pc\Assets\Samples\XR Interaction Toolkit\2.6.5\Starter Assets\Models\Primitive_Cylinder.fbx.meta
+D:\Github\simulasi-3d-pc\Assets\Samples\XR Interaction Toolkit\2.6.5\Starter Assets\Models\Primitive_Wedge.fbx
+D:\Github\simulasi-3d-pc\Assets\Samples\XR Interaction Toolkit\2.6.5\Starter Assets\Models\Primitive_Wedge.fbx.meta
+D:\Github\simulasi-3d-pc\Assets\Samples\XR Interaction Toolkit\2.6.5\Starter Assets\Models\Reticle_Torus.fbx
+D:\Github\simulasi-3d-pc\Assets\Samples\XR Interaction Toolkit\2.6.5\Starter Assets\Models\Reticle_Torus.fbx.meta
+D:\Github\simulasi-3d-pc\Assets\Samples\XR Interaction Toolkit\2.6.5\Starter Assets\Models\XRControllerLeft.fbx
+D:\Github\simulasi-3d-pc\Assets\Samples\XR Interaction Toolkit\2.6.5\Starter Assets\Models\XRControllerLeft.fbx.meta
+D:\Github\simulasi-3d-pc\Assets\Samples\XR Interaction Toolkit\2.6.5\Starter Assets\Models\XRControllerRight.fbx
+D:\Github\simulasi-3d-pc\Assets\Samples\XR Interaction Toolkit\2.6.5\Starter Assets\Models\XRControllerRight.fbx.meta
+D:\Github\simulasi-3d-pc\Assets\Samples\XR Interaction Toolkit\2.6.5\Starter Assets\Prefabs\Controllers
+D:\Github\simulasi-3d-pc\Assets\Samples\XR Interaction Toolkit\2.6.5\Starter Assets\Prefabs\Controllers.meta
+D:\Github\simulasi-3d-pc\Assets\Samples\XR Interaction Toolkit\2.6.5\Starter Assets\Prefabs\Interactors
+D:\Github\simulasi-3d-pc\Assets\Samples\XR Interaction Toolkit\2.6.5\Starter Assets\Prefabs\Interactors.meta
+D:\Github\simulasi-3d-pc\Assets\Samples\XR Interaction Toolkit\2.6.5\Starter Assets\Prefabs\Teleport
+D:\Github\simulasi-3d-pc\Assets\Samples\XR Interaction Toolkit\2.6.5\Starter Assets\Prefabs\Teleport.meta
+D:\Github\simulasi-3d-pc\Assets\Samples\XR Interaction Toolkit\2.6.5\Starter Assets\Prefabs\XR Interaction Setup.prefab
+D:\Github\simulasi-3d-pc\Assets\Samples\XR Interaction Toolkit\2.6.5\Starter Assets\Prefabs\XR Interaction Setup.prefab.meta
+D:\Github\simulasi-3d-pc\Assets\Samples\XR Interaction Toolkit\2.6.5\Starter Assets\Prefabs\XR Origin (XR Rig).prefab
+D:\Github\simulasi-3d-pc\Assets\Samples\XR Interaction Toolkit\2.6.5\Starter Assets\Prefabs\XR Origin (XR Rig).prefab.meta
+D:\Github\simulasi-3d-pc\Assets\Samples\XR Interaction Toolkit\2.6.5\Starter Assets\Prefabs\Controllers\XR Controller Left.prefab
+D:\Github\simulasi-3d-pc\Assets\Samples\XR Interaction Toolkit\2.6.5\Starter Assets\Prefabs\Controllers\XR Controller Left.prefab.meta
+D:\Github\simulasi-3d-pc\Assets\Samples\XR Interaction Toolkit\2.6.5\Starter Assets\Prefabs\Controllers\XR Controller Right.prefab
+D:\Github\simulasi-3d-pc\Assets\Samples\XR Interaction Toolkit\2.6.5\Starter Assets\Prefabs\Controllers\XR Controller Right.prefab.meta
+D:\Github\simulasi-3d-pc\Assets\Samples\XR Interaction Toolkit\2.6.5\Starter Assets\Prefabs\Interactors\Direct Interactor.prefab
+D:\Github\simulasi-3d-pc\Assets\Samples\XR Interaction Toolkit\2.6.5\Starter Assets\Prefabs\Interactors\Direct Interactor.prefab.meta
+D:\Github\simulasi-3d-pc\Assets\Samples\XR Interaction Toolkit\2.6.5\Starter Assets\Prefabs\Interactors\Gaze Interactor.prefab
+D:\Github\simulasi-3d-pc\Assets\Samples\XR Interaction Toolkit\2.6.5\Starter Assets\Prefabs\Interactors\Gaze Interactor.prefab.meta
+D:\Github\simulasi-3d-pc\Assets\Samples\XR Interaction Toolkit\2.6.5\Starter Assets\Prefabs\Interactors\Poke Interactor.prefab
+D:\Github\simulasi-3d-pc\Assets\Samples\XR Interaction Toolkit\2.6.5\Starter Assets\Prefabs\Interactors\Poke Interactor.prefab.meta
+D:\Github\simulasi-3d-pc\Assets\Samples\XR Interaction Toolkit\2.6.5\Starter Assets\Prefabs\Interactors\Ray Interactor.prefab
+D:\Github\simulasi-3d-pc\Assets\Samples\XR Interaction Toolkit\2.6.5\Starter Assets\Prefabs\Interactors\Ray Interactor.prefab.meta
+D:\Github\simulasi-3d-pc\Assets\Samples\XR Interaction Toolkit\2.6.5\Starter Assets\Prefabs\Interactors\Teleport Interactor.prefab
+D:\Github\simulasi-3d-pc\Assets\Samples\XR Interaction Toolkit\2.6.5\Starter Assets\Prefabs\Interactors\Teleport Interactor.prefab.meta
+D:\Github\simulasi-3d-pc\Assets\Samples\XR Interaction Toolkit\2.6.5\Starter Assets\Prefabs\Teleport\Blocking Teleport Reticle.prefab
+D:\Github\simulasi-3d-pc\Assets\Samples\XR Interaction Toolkit\2.6.5\Starter Assets\Prefabs\Teleport\Blocking Teleport Reticle.prefab.meta
+D:\Github\simulasi-3d-pc\Assets\Samples\XR Interaction Toolkit\2.6.5\Starter Assets\Prefabs\Teleport\Climb Teleport Arrow.prefab
+D:\Github\simulasi-3d-pc\Assets\Samples\XR Interaction Toolkit\2.6.5\Starter Assets\Prefabs\Teleport\Climb Teleport Arrow.prefab.meta
+D:\Github\simulasi-3d-pc\Assets\Samples\XR Interaction Toolkit\2.6.5\Starter Assets\Prefabs\Teleport\Directional Teleport Reticle.prefab
+D:\Github\simulasi-3d-pc\Assets\Samples\XR Interaction Toolkit\2.6.5\Starter Assets\Prefabs\Teleport\Directional Teleport Reticle.prefab.meta
+D:\Github\simulasi-3d-pc\Assets\Samples\XR Interaction Toolkit\2.6.5\Starter Assets\Presets\XRI Default Continuous Move.preset
+D:\Github\simulasi-3d-pc\Assets\Samples\XR Interaction Toolkit\2.6.5\Starter Assets\Presets\XRI Default Continuous Move.preset.meta
+D:\Github\simulasi-3d-pc\Assets\Samples\XR Interaction Toolkit\2.6.5\Starter Assets\Presets\XRI Default Continuous Turn.preset
+D:\Github\simulasi-3d-pc\Assets\Samples\XR Interaction Toolkit\2.6.5\Starter Assets\Presets\XRI Default Continuous Turn.preset.meta
+D:\Github\simulasi-3d-pc\Assets\Samples\XR Interaction Toolkit\2.6.5\Starter Assets\Presets\XRI Default Gaze Controller.preset
+D:\Github\simulasi-3d-pc\Assets\Samples\XR Interaction Toolkit\2.6.5\Starter Assets\Presets\XRI Default Gaze Controller.preset.meta
+D:\Github\simulasi-3d-pc\Assets\Samples\XR Interaction Toolkit\2.6.5\Starter Assets\Presets\XRI Default Left ActionBasedControllerManager.preset
+D:\Github\simulasi-3d-pc\Assets\Samples\XR Interaction Toolkit\2.6.5\Starter Assets\Presets\XRI Default Left ActionBasedControllerManager.preset.meta
+D:\Github\simulasi-3d-pc\Assets\Samples\XR Interaction Toolkit\2.6.5\Starter Assets\Presets\XRI Default Left Controller.preset
+D:\Github\simulasi-3d-pc\Assets\Samples\XR Interaction Toolkit\2.6.5\Starter Assets\Presets\XRI Default Left Controller.preset.meta
+D:\Github\simulasi-3d-pc\Assets\Samples\XR Interaction Toolkit\2.6.5\Starter Assets\Presets\XRI Default Left Grab Move.preset
+D:\Github\simulasi-3d-pc\Assets\Samples\XR Interaction Toolkit\2.6.5\Starter Assets\Presets\XRI Default Left Grab Move.preset.meta
+D:\Github\simulasi-3d-pc\Assets\Samples\XR Interaction Toolkit\2.6.5\Starter Assets\Presets\XRI Default Right ActionBasedControllerManager.preset
+D:\Github\simulasi-3d-pc\Assets\Samples\XR Interaction Toolkit\2.6.5\Starter Assets\Presets\XRI Default Right ActionBasedControllerManager.preset.meta
+D:\Github\simulasi-3d-pc\Assets\Samples\XR Interaction Toolkit\2.6.5\Starter Assets\Presets\XRI Default Right Controller.preset
+D:\Github\simulasi-3d-pc\Assets\Samples\XR Interaction Toolkit\2.6.5\Starter Assets\Presets\XRI Default Right Controller.preset.meta
+D:\Github\simulasi-3d-pc\Assets\Samples\XR Interaction Toolkit\2.6.5\Starter Assets\Presets\XRI Default Right Grab Move.preset
+D:\Github\simulasi-3d-pc\Assets\Samples\XR Interaction Toolkit\2.6.5\Starter Assets\Presets\XRI Default Right Grab Move.preset.meta
+D:\Github\simulasi-3d-pc\Assets\Samples\XR Interaction Toolkit\2.6.5\Starter Assets\Presets\XRI Default Snap Turn.preset
+D:\Github\simulasi-3d-pc\Assets\Samples\XR Interaction Toolkit\2.6.5\Starter Assets\Presets\XRI Default Snap Turn.preset.meta
+D:\Github\simulasi-3d-pc\Assets\Samples\XR Interaction Toolkit\2.6.5\Starter Assets\Presets\XRI Default XR Screen Space Controller.preset
+D:\Github\simulasi-3d-pc\Assets\Samples\XR Interaction Toolkit\2.6.5\Starter Assets\Presets\XRI Default XR Screen Space Controller.preset.meta
+D:\Github\simulasi-3d-pc\Assets\Samples\XR Interaction Toolkit\2.6.5\Starter Assets\Presets\XRI Default XR UI Input Module.preset
+D:\Github\simulasi-3d-pc\Assets\Samples\XR Interaction Toolkit\2.6.5\Starter Assets\Presets\XRI Default XR UI Input Module.preset.meta
+D:\Github\simulasi-3d-pc\Assets\Samples\XR Interaction Toolkit\2.6.5\Starter Assets\Scripts\ActionBasedControllerManager.cs
+D:\Github\simulasi-3d-pc\Assets\Samples\XR Interaction Toolkit\2.6.5\Starter Assets\Scripts\ActionBasedControllerManager.cs.meta
+D:\Github\simulasi-3d-pc\Assets\Samples\XR Interaction Toolkit\2.6.5\Starter Assets\Scripts\ClimbTeleportDestinationIndicator.cs
+D:\Github\simulasi-3d-pc\Assets\Samples\XR Interaction Toolkit\2.6.5\Starter Assets\Scripts\ClimbTeleportDestinationIndicator.cs.meta
+D:\Github\simulasi-3d-pc\Assets\Samples\XR Interaction Toolkit\2.6.5\Starter Assets\Scripts\DestroySelf.cs
+D:\Github\simulasi-3d-pc\Assets\Samples\XR Interaction Toolkit\2.6.5\Starter Assets\Scripts\DestroySelf.cs.meta
+D:\Github\simulasi-3d-pc\Assets\Samples\XR Interaction Toolkit\2.6.5\Starter Assets\Scripts\DynamicMoveProvider.cs
+D:\Github\simulasi-3d-pc\Assets\Samples\XR Interaction Toolkit\2.6.5\Starter Assets\Scripts\DynamicMoveProvider.cs.meta
+D:\Github\simulasi-3d-pc\Assets\Samples\XR Interaction Toolkit\2.6.5\Starter Assets\Scripts\GazeInputManager.cs
+D:\Github\simulasi-3d-pc\Assets\Samples\XR Interaction Toolkit\2.6.5\Starter Assets\Scripts\GazeInputManager.cs.meta
+D:\Github\simulasi-3d-pc\Assets\Samples\XR Interaction Toolkit\2.6.5\Starter Assets\Scripts\ObjectSpawner.cs
+D:\Github\simulasi-3d-pc\Assets\Samples\XR Interaction Toolkit\2.6.5\Starter Assets\Scripts\ObjectSpawner.cs.meta
+D:\Github\simulasi-3d-pc\Assets\Samples\XR Interaction Toolkit\2.6.5\Starter Assets\Scripts\RotationAxisLockGrabTransformer.cs
+D:\Github\simulasi-3d-pc\Assets\Samples\XR Interaction Toolkit\2.6.5\Starter Assets\Scripts\RotationAxisLockGrabTransformer.cs.meta
+D:\Github\simulasi-3d-pc\Assets\Samples\XR Interaction Toolkit\2.6.5\Starter Assets\Scripts\ToggleComponentZone.cs
+D:\Github\simulasi-3d-pc\Assets\Samples\XR Interaction Toolkit\2.6.5\Starter Assets\Scripts\ToggleComponentZone.cs.meta
+D:\Github\simulasi-3d-pc\Assets\Samples\XR Interaction Toolkit\2.6.5\Starter Assets\Scripts\XRPokeFollowAffordance.cs
+D:\Github\simulasi-3d-pc\Assets\Samples\XR Interaction Toolkit\2.6.5\Starter Assets\Scripts\XRPokeFollowAffordance.cs.meta
+D:\Github\simulasi-3d-pc\Assets\Samples\XR Interaction Toolkit\2.6.5\Starter Assets\Shaders\UI-NoZTest.shader
+D:\Github\simulasi-3d-pc\Assets\Samples\XR Interaction Toolkit\2.6.5\Starter Assets\Shaders\UI-NoZTest.shader.meta
+D:\Github\simulasi-3d-pc\Assets\Samples\XR Interaction Toolkit\2.6.5\Starter Assets\Tunneling Vignette\TunnelingVignette.mat
+D:\Github\simulasi-3d-pc\Assets\Samples\XR Interaction Toolkit\2.6.5\Starter Assets\Tunneling Vignette\TunnelingVignette.mat.meta
+D:\Github\simulasi-3d-pc\Assets\Samples\XR Interaction Toolkit\2.6.5\Starter Assets\Tunneling Vignette\TunnelingVignette.prefab
+D:\Github\simulasi-3d-pc\Assets\Samples\XR Interaction Toolkit\2.6.5\Starter Assets\Tunneling Vignette\TunnelingVignette.prefab.meta
+D:\Github\simulasi-3d-pc\Assets\Samples\XR Interaction Toolkit\2.6.5\Starter Assets\Tunneling Vignette\TunnelingVignette.shader
+D:\Github\simulasi-3d-pc\Assets\Samples\XR Interaction Toolkit\2.6.5\Starter Assets\Tunneling Vignette\TunnelingVignette.shader.meta
+D:\Github\simulasi-3d-pc\Assets\Samples\XR Interaction Toolkit\2.6.5\Starter Assets\Tunneling Vignette\TunnelingVignetteHemisphere.fbx
+D:\Github\simulasi-3d-pc\Assets\Samples\XR Interaction Toolkit\2.6.5\Starter Assets\Tunneling Vignette\TunnelingVignetteHemisphere.fbx.meta
+D:\Github\simulasi-3d-pc\Assets\Samples\XR Interaction Toolkit\2.6.5\Starter Assets\Tunneling Vignette\TunnelingVignetteSG.shadergraph
+D:\Github\simulasi-3d-pc\Assets\Samples\XR Interaction Toolkit\2.6.5\Starter Assets\Tunneling Vignette\TunnelingVignetteSG.shadergraph.meta
+D:\Github\simulasi-3d-pc\Assets\Scenes\LevelAdvance.unity
+D:\Github\simulasi-3d-pc\Assets\Scenes\LevelAdvance.unity.meta
+D:\Github\simulasi-3d-pc\Assets\Scenes\Level_Entry 2.unity
+D:\Github\simulasi-3d-pc\Assets\Scenes\Level_Entry 2.unity.meta
+D:\Github\simulasi-3d-pc\Assets\Scenes\Level_Entry.unity
+D:\Github\simulasi-3d-pc\Assets\Scenes\Level_Entry.unity.meta
+D:\Github\simulasi-3d-pc\Assets\Scenes\MainMenu.unity
+D:\Github\simulasi-3d-pc\Assets\Scenes\MainMenu.unity.meta
+D:\Github\simulasi-3d-pc\Assets\Scenes\New SceneTemplate.scenetemplate
+D:\Github\simulasi-3d-pc\Assets\Scenes\New SceneTemplate.scenetemplate.meta
+D:\Github\simulasi-3d-pc\Assets\Scenes\Test_Office.unity
+D:\Github\simulasi-3d-pc\Assets\Scenes\Test_Office.unity.meta
+D:\Github\simulasi-3d-pc\Assets\Script\AssemblyManager.cs
+D:\Github\simulasi-3d-pc\Assets\Script\AssemblyManager.cs.meta
+D:\Github\simulasi-3d-pc\Assets\Script\AutoRotate.cs
+D:\Github\simulasi-3d-pc\Assets\Script\AutoRotate.cs.meta
+D:\Github\simulasi-3d-pc\Assets\Script\Clickable3D.cs
+D:\Github\simulasi-3d-pc\Assets\Script\Clickable3D.cs.meta
+D:\Github\simulasi-3d-pc\Assets\Script\ed
+D:\Github\simulasi-3d-pc\Assets\Script\ed.meta
+D:\Github\simulasi-3d-pc\Assets\Script\FindMissingScript.cs
+D:\Github\simulasi-3d-pc\Assets\Script\FindMissingScript.cs.meta
+D:\Github\simulasi-3d-pc\Assets\Script\GameplayUISkin.cs
+D:\Github\simulasi-3d-pc\Assets\Script\GameplayUISkin.cs.meta
+D:\Github\simulasi-3d-pc\Assets\Script\HUDController.cs
+D:\Github\simulasi-3d-pc\Assets\Script\HUDController.cs.meta
+D:\Github\simulasi-3d-pc\Assets\Script\MainMenuBuilder.cs
+D:\Github\simulasi-3d-pc\Assets\Script\MainMenuBuilder.cs.meta
+D:\Github\simulasi-3d-pc\Assets\Script\MainMenuController.cs
+D:\Github\simulasi-3d-pc\Assets\Script\MainMenuController.cs.meta
+D:\Github\simulasi-3d-pc\Assets\Script\MenuItemUI.cs
+D:\Github\simulasi-3d-pc\Assets\Script\MenuItemUI.cs.meta
+D:\Github\simulasi-3d-pc\Assets\Script\PartCard.cs
+D:\Github\simulasi-3d-pc\Assets\Script\PartCard.cs.meta
+D:\Github\simulasi-3d-pc\Assets\Script\PartData.cs
+D:\Github\simulasi-3d-pc\Assets\Script\PartData.cs.meta
+D:\Github\simulasi-3d-pc\Assets\Script\PartSanitizer.cs
+D:\Github\simulasi-3d-pc\Assets\Script\PartSanitizer.cs.meta
+D:\Github\simulasi-3d-pc\Assets\Script\PartsPanel.cs
+D:\Github\simulasi-3d-pc\Assets\Script\PartsPanel.cs.meta
+D:\Github\simulasi-3d-pc\Assets\Script\PartType.cs
+D:\Github\simulasi-3d-pc\Assets\Script\PartType.cs.meta
+D:\Github\simulasi-3d-pc\Assets\Script\PointerInteractor.cs
+D:\Github\simulasi-3d-pc\Assets\Script\PointerInteractor.cs.meta
+D:\Github\simulasi-3d-pc\Assets\Script\SeatedLook.cs
+D:\Github\simulasi-3d-pc\Assets\Script\SeatedLook.cs.meta
+D:\Github\simulasi-3d-pc\Assets\Script\SocketPoint.cs
+D:\Github\simulasi-3d-pc\Assets\Script\SocketPoint.cs.meta
+D:\Github\simulasi-3d-pc\Assets\Script\Spinner.cs
+D:\Github\simulasi-3d-pc\Assets\Script\Spinner.cs.meta
+D:\Github\simulasi-3d-pc\Assets\Script\UI
+D:\Github\simulasi-3d-pc\Assets\Script\UI.meta
+D:\Github\simulasi-3d-pc\Assets\Script\Util.cs
+D:\Github\simulasi-3d-pc\Assets\Script\Util.cs.meta
+D:\Github\simulasi-3d-pc\Assets\Script\UI\GameLevels.cs
+D:\Github\simulasi-3d-pc\Assets\Script\UI\GameLevels.cs.meta
+D:\Github\simulasi-3d-pc\Assets\Script\UI\GameplayTopBar.cs
+D:\Github\simulasi-3d-pc\Assets\Script\UI\GameplayTopBar.cs.meta
+D:\Github\simulasi-3d-pc\Assets\Script\UI\GameplayUIBootstrap.cs
+D:\Github\simulasi-3d-pc\Assets\Script\UI\GameplayUIBootstrap.cs.meta
+D:\Github\simulasi-3d-pc\Assets\Script\UI\GuidePanel.cs
+D:\Github\simulasi-3d-pc\Assets\Script\UI\GuidePanel.cs.meta
+D:\Github\simulasi-3d-pc\Assets\Script\UI\LevelSelectPanel.cs
+D:\Github\simulasi-3d-pc\Assets\Script\UI\LevelSelectPanel.cs.meta
+D:\Github\simulasi-3d-pc\Assets\Script\UI\PauseMenu.cs
+D:\Github\simulasi-3d-pc\Assets\Script\UI\PauseMenu.cs.meta
+D:\Github\simulasi-3d-pc\Assets\Script\UI\ResultScreen.cs
+D:\Github\simulasi-3d-pc\Assets\Script\UI\ResultScreen.cs.meta
+D:\Github\simulasi-3d-pc\Assets\Script\UI\UIKit.cs
+D:\Github\simulasi-3d-pc\Assets\Script\UI\UIKit.cs.meta
+D:\Github\simulasi-3d-pc\Assets\Settings\SampleSceneProfile.asset
+D:\Github\simulasi-3d-pc\Assets\Settings\SampleSceneProfile.asset.meta
+D:\Github\simulasi-3d-pc\Assets\Settings\URP-Balanced-Renderer.asset
+D:\Github\simulasi-3d-pc\Assets\Settings\URP-Balanced-Renderer.asset.meta
+D:\Github\simulasi-3d-pc\Assets\Settings\URP-Balanced.asset
+D:\Github\simulasi-3d-pc\Assets\Settings\URP-Balanced.asset.meta
+D:\Github\simulasi-3d-pc\Assets\Settings\URP-HighFidelity-Renderer.asset
+D:\Github\simulasi-3d-pc\Assets\Settings\URP-HighFidelity-Renderer.asset.meta
+D:\Github\simulasi-3d-pc\Assets\Settings\URP-HighFidelity.asset
+D:\Github\simulasi-3d-pc\Assets\Settings\URP-HighFidelity.asset.meta
+D:\Github\simulasi-3d-pc\Assets\Settings\URP-Performant-Renderer.asset
+D:\Github\simulasi-3d-pc\Assets\Settings\URP-Performant-Renderer.asset.meta
+D:\Github\simulasi-3d-pc\Assets\Settings\URP-Performant.asset
+D:\Github\simulasi-3d-pc\Assets\Settings\URP-Performant.asset.meta
+D:\Github\simulasi-3d-pc\Assets\TextMesh Pro\Documentation
+D:\Github\simulasi-3d-pc\Assets\TextMesh Pro\Documentation.meta
+D:\Github\simulasi-3d-pc\Assets\TextMesh Pro\Fonts
+D:\Github\simulasi-3d-pc\Assets\TextMesh Pro\Fonts.meta
+D:\Github\simulasi-3d-pc\Assets\TextMesh Pro\Resources
+D:\Github\simulasi-3d-pc\Assets\TextMesh Pro\Resources.meta
+D:\Github\simulasi-3d-pc\Assets\TextMesh Pro\Shaders
+D:\Github\simulasi-3d-pc\Assets\TextMesh Pro\Shaders.meta
+D:\Github\simulasi-3d-pc\Assets\TextMesh Pro\Sprites
+D:\Github\simulasi-3d-pc\Assets\TextMesh Pro\Sprites.meta
+D:\Github\simulasi-3d-pc\Assets\TextMesh Pro\Documentation\TextMesh Pro User Guide 2016.pdf
+D:\Github\simulasi-3d-pc\Assets\TextMesh Pro\Documentation\TextMesh Pro User Guide 2016.pdf.meta
+D:\Github\simulasi-3d-pc\Assets\TextMesh Pro\Fonts\LiberationSans - OFL.txt
+D:\Github\simulasi-3d-pc\Assets\TextMesh Pro\Fonts\LiberationSans - OFL.txt.meta
+D:\Github\simulasi-3d-pc\Assets\TextMesh Pro\Fonts\LiberationSans.ttf
+D:\Github\simulasi-3d-pc\Assets\TextMesh Pro\Fonts\LiberationSans.ttf.meta
+D:\Github\simulasi-3d-pc\Assets\TextMesh Pro\Resources\Fonts & Materials
+D:\Github\simulasi-3d-pc\Assets\TextMesh Pro\Resources\Fonts & Materials.meta
+D:\Github\simulasi-3d-pc\Assets\TextMesh Pro\Resources\LineBreaking Following Characters.txt
+D:\Github\simulasi-3d-pc\Assets\TextMesh Pro\Resources\LineBreaking Following Characters.txt.meta
+D:\Github\simulasi-3d-pc\Assets\TextMesh Pro\Resources\LineBreaking Leading Characters.txt
+D:\Github\simulasi-3d-pc\Assets\TextMesh Pro\Resources\LineBreaking Leading Characters.txt.meta
+D:\Github\simulasi-3d-pc\Assets\TextMesh Pro\Resources\Sprite Assets
+D:\Github\simulasi-3d-pc\Assets\TextMesh Pro\Resources\Sprite Assets.meta
+D:\Github\simulasi-3d-pc\Assets\TextMesh Pro\Resources\Style Sheets
+D:\Github\simulasi-3d-pc\Assets\TextMesh Pro\Resources\Style Sheets.meta
+D:\Github\simulasi-3d-pc\Assets\TextMesh Pro\Resources\TMP Settings.asset
+D:\Github\simulasi-3d-pc\Assets\TextMesh Pro\Resources\TMP Settings.asset.meta
+D:\Github\simulasi-3d-pc\Assets\TextMesh Pro\Resources\Fonts & Materials\LiberationSans SDF - Drop Shadow.mat
+D:\Github\simulasi-3d-pc\Assets\TextMesh Pro\Resources\Fonts & Materials\LiberationSans SDF - Drop Shadow.mat.meta
+D:\Github\simulasi-3d-pc\Assets\TextMesh Pro\Resources\Fonts & Materials\LiberationSans SDF - Fallback.asset
+D:\Github\simulasi-3d-pc\Assets\TextMesh Pro\Resources\Fonts & Materials\LiberationSans SDF - Fallback.asset.meta
+D:\Github\simulasi-3d-pc\Assets\TextMesh Pro\Resources\Fonts & Materials\LiberationSans SDF - Outline.mat
+D:\Github\simulasi-3d-pc\Assets\TextMesh Pro\Resources\Fonts & Materials\LiberationSans SDF - Outline.mat.meta
+D:\Github\simulasi-3d-pc\Assets\TextMesh Pro\Resources\Fonts & Materials\LiberationSans SDF.asset
+D:\Github\simulasi-3d-pc\Assets\TextMesh Pro\Resources\Fonts & Materials\LiberationSans SDF.asset.meta
+D:\Github\simulasi-3d-pc\Assets\TextMesh Pro\Resources\Sprite Assets\EmojiOne.asset
+D:\Github\simulasi-3d-pc\Assets\TextMesh Pro\Resources\Sprite Assets\EmojiOne.asset.meta
+D:\Github\simulasi-3d-pc\Assets\TextMesh Pro\Resources\Style Sheets\Default Style Sheet.asset
+D:\Github\simulasi-3d-pc\Assets\TextMesh Pro\Resources\Style Sheets\Default Style Sheet.asset.meta
+D:\Github\simulasi-3d-pc\Assets\TextMesh Pro\Shaders\TMPro.cginc
+D:\Github\simulasi-3d-pc\Assets\TextMesh Pro\Shaders\TMPro.cginc.meta
+D:\Github\simulasi-3d-pc\Assets\TextMesh Pro\Shaders\TMPro_Mobile.cginc
+D:\Github\simulasi-3d-pc\Assets\TextMesh Pro\Shaders\TMPro_Mobile.cginc.meta
+D:\Github\simulasi-3d-pc\Assets\TextMesh Pro\Shaders\TMPro_Properties.cginc
+D:\Github\simulasi-3d-pc\Assets\TextMesh Pro\Shaders\TMPro_Properties.cginc.meta
+D:\Github\simulasi-3d-pc\Assets\TextMesh Pro\Shaders\TMPro_Surface.cginc
+D:\Github\simulasi-3d-pc\Assets\TextMesh Pro\Shaders\TMPro_Surface.cginc.meta
+D:\Github\simulasi-3d-pc\Assets\TextMesh Pro\Shaders\TMP_Bitmap-Custom-Atlas.shader
+D:\Github\simulasi-3d-pc\Assets\TextMesh Pro\Shaders\TMP_Bitmap-Custom-Atlas.shader.meta
+D:\Github\simulasi-3d-pc\Assets\TextMesh Pro\Shaders\TMP_Bitmap-Mobile.shader
+D:\Github\simulasi-3d-pc\Assets\TextMesh Pro\Shaders\TMP_Bitmap-Mobile.shader.meta
+D:\Github\simulasi-3d-pc\Assets\TextMesh Pro\Shaders\TMP_Bitmap.shader
+D:\Github\simulasi-3d-pc\Assets\TextMesh Pro\Shaders\TMP_Bitmap.shader.meta
+D:\Github\simulasi-3d-pc\Assets\TextMesh Pro\Shaders\TMP_SDF Overlay.shader
+D:\Github\simulasi-3d-pc\Assets\TextMesh Pro\Shaders\TMP_SDF Overlay.shader.meta
+D:\Github\simulasi-3d-pc\Assets\TextMesh Pro\Shaders\TMP_SDF SSD.shader
+D:\Github\simulasi-3d-pc\Assets\TextMesh Pro\Shaders\TMP_SDF SSD.shader.meta
+D:\Github\simulasi-3d-pc\Assets\TextMesh Pro\Shaders\TMP_SDF-Mobile Masking.shader
+D:\Github\simulasi-3d-pc\Assets\TextMesh Pro\Shaders\TMP_SDF-Mobile Masking.shader.meta
+D:\Github\simulasi-3d-pc\Assets\TextMesh Pro\Shaders\TMP_SDF-Mobile Overlay.shader
+D:\Github\simulasi-3d-pc\Assets\TextMesh Pro\Shaders\TMP_SDF-Mobile Overlay.shader.meta
+D:\Github\simulasi-3d-pc\Assets\TextMesh Pro\Shaders\TMP_SDF-Mobile SSD.shader
+D:\Github\simulasi-3d-pc\Assets\TextMesh Pro\Shaders\TMP_SDF-Mobile SSD.shader.meta
+D:\Github\simulasi-3d-pc\Assets\TextMesh Pro\Shaders\TMP_SDF-Mobile.shader
+D:\Github\simulasi-3d-pc\Assets\TextMesh Pro\Shaders\TMP_SDF-Mobile.shader.meta
+D:\Github\simulasi-3d-pc\Assets\TextMesh Pro\Shaders\TMP_SDF-Surface-Mobile.shader
+D:\Github\simulasi-3d-pc\Assets\TextMesh Pro\Shaders\TMP_SDF-Surface-Mobile.shader.meta
+D:\Github\simulasi-3d-pc\Assets\TextMesh Pro\Shaders\TMP_SDF-Surface.shader
+D:\Github\simulasi-3d-pc\Assets\TextMesh Pro\Shaders\TMP_SDF-Surface.shader.meta
+D:\Github\simulasi-3d-pc\Assets\TextMesh Pro\Shaders\TMP_SDF.shader
+D:\Github\simulasi-3d-pc\Assets\TextMesh Pro\Shaders\TMP_SDF.shader.meta
+D:\Github\simulasi-3d-pc\Assets\TextMesh Pro\Shaders\TMP_Sprite.shader
+D:\Github\simulasi-3d-pc\Assets\TextMesh Pro\Shaders\TMP_Sprite.shader.meta
+D:\Github\simulasi-3d-pc\Assets\TextMesh Pro\Sprites\EmojiOne Attribution.txt
+D:\Github\simulasi-3d-pc\Assets\TextMesh Pro\Sprites\EmojiOne Attribution.txt.meta
+D:\Github\simulasi-3d-pc\Assets\TextMesh Pro\Sprites\EmojiOne.json
+D:\Github\simulasi-3d-pc\Assets\TextMesh Pro\Sprites\EmojiOne.json.meta
+D:\Github\simulasi-3d-pc\Assets\TextMesh Pro\Sprites\EmojiOne.png
+D:\Github\simulasi-3d-pc\Assets\TextMesh Pro\Sprites\EmojiOne.png.meta
+D:\Github\simulasi-3d-pc\Assets\Textures\Screenshot 2026-11-09 223936.png
+D:\Github\simulasi-3d-pc\Assets\Textures\Screenshot 2026-11-09 223936.png.meta
+D:\Github\simulasi-3d-pc\Assets\TutorialInfo\Icons
+D:\Github\simulasi-3d-pc\Assets\TutorialInfo\Icons.meta
+D:\Github\simulasi-3d-pc\Assets\TutorialInfo\Layout.wlt
+D:\Github\simulasi-3d-pc\Assets\TutorialInfo\Layout.wlt.meta
+D:\Github\simulasi-3d-pc\Assets\TutorialInfo\Scripts
+D:\Github\simulasi-3d-pc\Assets\TutorialInfo\Scripts.meta
+D:\Github\simulasi-3d-pc\Assets\TutorialInfo\Icons\URP.png
+D:\Github\simulasi-3d-pc\Assets\TutorialInfo\Icons\URP.png.meta
+D:\Github\simulasi-3d-pc\Assets\TutorialInfo\Scripts\Editor
+D:\Github\simulasi-3d-pc\Assets\TutorialInfo\Scripts\Editor.meta
+D:\Github\simulasi-3d-pc\Assets\TutorialInfo\Scripts\Readme.cs
+D:\Github\simulasi-3d-pc\Assets\TutorialInfo\Scripts\Readme.cs.meta
+D:\Github\simulasi-3d-pc\Assets\TutorialInfo\Scripts\Editor\ReadmeEditor.cs
+D:\Github\simulasi-3d-pc\Assets\TutorialInfo\Scripts\Editor\ReadmeEditor.cs.meta
+D:\Github\simulasi-3d-pc\Assets\UI\MainMenu
+D:\Github\simulasi-3d-pc\Assets\UI\MainMenu.meta
+D:\Github\simulasi-3d-pc\Assets\UI\MainMenu\grad_h.png
+D:\Github\simulasi-3d-pc\Assets\UI\MainMenu\grad_h.png.meta
+D:\Github\simulasi-3d-pc\Assets\UI\MainMenu\grad_v.png
+D:\Github\simulasi-3d-pc\Assets\UI\MainMenu\grad_v.png.meta
+D:\Github\simulasi-3d-pc\Assets\UI\MainMenu\MainMenuProfile.asset
+D:\Github\simulasi-3d-pc\Assets\UI\MainMenu\MainMenuProfile.asset.meta
+D:\Github\simulasi-3d-pc\Assets\XR\Loaders
+D:\Github\simulasi-3d-pc\Assets\XR\Loaders.meta
+D:\Github\simulasi-3d-pc\Assets\XR\Settings
+D:\Github\simulasi-3d-pc\Assets\XR\Settings.meta
+D:\Github\simulasi-3d-pc\Assets\XR\XRGeneralSettingsPerBuildTarget.asset
+D:\Github\simulasi-3d-pc\Assets\XR\XRGeneralSettingsPerBuildTarget.asset.meta
+D:\Github\simulasi-3d-pc\Assets\XR\Loaders\XRLoader.asset
+D:\Github\simulasi-3d-pc\Assets\XR\Loaders\XRLoader.asset.meta
+D:\Github\simulasi-3d-pc\Assets\XR\Settings\XRSettings.asset
+D:\Github\simulasi-3d-pc\Assets\XR\Settings\XRSettings.asset.meta
+D:\Github\simulasi-3d-pc\Assets\XRI\Settings
+D:\Github\simulasi-3d-pc\Assets\XRI\Settings.meta
+D:\Github\simulasi-3d-pc\Assets\XRI\Settings\Resources
+D:\Github\simulasi-3d-pc\Assets\XRI\Settings\Resources.meta
+D:\Github\simulasi-3d-pc\Assets\XRI\Settings\XRInteractionEditorSettings.asset
+D:\Github\simulasi-3d-pc\Assets\XRI\Settings\XRInteractionEditorSettings.asset.meta
+D:\Github\simulasi-3d-pc\Assets\XRI\Settings\Resources\InteractionLayerSettings.asset
+D:\Github\simulasi-3d-pc\Assets\XRI\Settings\Resources\InteractionLayerSettings.asset.meta
+D:\Github\simulasi-3d-pc\Assets\XRI\Settings\Resources\XRDeviceSimulatorSettings.asset
+D:\Github\simulasi-3d-pc\Assets\XRI\Settings\Resources\XRDeviceSimulatorSettings.asset.meta

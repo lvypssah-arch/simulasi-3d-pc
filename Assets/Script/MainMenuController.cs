@@ -8,7 +8,7 @@ using UnityEngine.UI;
 
 public class MainMenuController : MonoBehaviour
 {
-    public enum State { Intro, Main, Settings, About, Loading }
+    public enum State { Intro, Main, Settings, About, Levels, Loading }
 
     [System.Serializable]
     public class CamPose
@@ -21,6 +21,7 @@ public class MainMenuController : MonoBehaviour
 
     [Header("Game")]
     public string playScene = "Level_Entry";
+    public string gameName = "PC BUILDING SIMULATOR";     // dipakai di panel About
 
     [Header("Kamera sinematik")]
     public Camera cam;
@@ -43,6 +44,9 @@ public class MainMenuController : MonoBehaviour
 
     [Header("UI")]
     public CanvasGroup titleGroup, menuGroup, settingsGroup, aboutGroup, fadeGroup;
+    [HideInInspector] public CanvasGroup levelsGroup;      // dibuat otomatis oleh LevelSelectPanel
+    LevelSelectPanel levelPanel;
+    public bool Busy { get { return busy; } }
     public MenuItemUI[] items;
     public TMP_Text descText, loadingText, aboutText;
     public string[] descriptions =
@@ -97,10 +101,11 @@ public class MainMenuController : MonoBehaviour
         Register(titleGroup); Register(menuGroup); Register(settingsGroup); Register(aboutGroup); Register(fadeGroup);
         ApplySavedSettings();
         HookUi();
+        BuildLevelSelect();
         SyncSettingsUi();
         CacheGlow();
         SnapCamera();
-        if (aboutText != null) aboutText.text = aboutBody;
+        if (aboutText != null) aboutText.text = BuildAboutText();
 
         SetAlpha(titleGroup, 0f);
         SetAlpha(menuGroup, 0f); SetInteractive(menuGroup, false);
@@ -113,6 +118,8 @@ public class MainMenuController : MonoBehaviour
 
     void Start()
     {
+        // Deskripsi per opsi dihapus agar Main Menu bersih. Objek tetap ada (fontnya dipakai Level Select).
+        if (descText != null) { descText.text = ""; descText.gameObject.SetActive(false); }
         if (musicSource != null && musicClip != null)
         {
             musicSource.clip = musicClip; musicSource.loop = true; musicSource.volume = 0f; musicSource.Play();
@@ -304,7 +311,6 @@ public class MainMenuController : MonoBehaviour
         bool changed = i != selected;
         selected = i;
         for (int k = 0; k < items.Length; k++) if (items[k] != null) items[k].SetSelected(k == i);
-        if (descText != null && descriptions != null && i < descriptions.Length) descText.text = descriptions[i];
         if (changed && sound) PlayUi(hoverClip);
     }
 
@@ -313,7 +319,10 @@ public class MainMenuController : MonoBehaviour
         PlayUi(clickClip);
         switch (i)
         {
-            case 0: StartCoroutine(PlayRoutine()); break;
+            case 0:
+                if (levelsGroup != null) StartCoroutine(OpenLevels());
+                else StartCoroutine(PlayRoutine(playScene));
+                break;
             case 1: StartCoroutine(OpenPanel(settingsGroup, poseSettings, State.Settings)); break;
             case 2: StartCoroutine(OpenPanel(aboutGroup, poseAbout, State.About)); break;
             case 3: StartCoroutine(QuitRoutine()); break;
@@ -325,7 +334,47 @@ public class MainMenuController : MonoBehaviour
         if (busy) return;
         if (state == State.Settings) StartCoroutine(ClosePanel(settingsGroup));
         else if (state == State.About) StartCoroutine(ClosePanel(aboutGroup));
+        else if (state == State.Levels) StartCoroutine(ClosePanel(levelsGroup));
         PlayUi(clickClip);
+    }
+
+    // ---------------------------------------------------------------- Level Select
+    public void BackFromLevels() { if (state == State.Levels) Back(); }
+
+    public void StartLevel(string sceneName)
+    {
+        if (busy) return;
+        PlayUi(clickClip);
+        StartCoroutine(PlayRoutine(sceneName));
+    }
+
+    IEnumerator OpenLevels()
+    {
+        yield return OpenPanel(levelsGroup, poseSettings, State.Levels);
+        if (levelPanel != null) levelPanel.OnShown();
+    }
+
+    void BuildLevelSelect()
+    {
+        if (aboutGroup == null) return;
+        TMP_Text head = aboutGroup.GetComponentInChildren<TMP_Text>(true);
+        TMP_FontAsset tf = head != null ? head.font : null;
+        TMP_FontAsset bf = descText != null ? descText.font : tf;
+        levelPanel = LevelSelectPanel.Create(this, aboutGroup.transform.parent, tf, bf);
+        levelsGroup = levelPanel.Group;
+        Register(levelsGroup);
+    }
+
+    // Teks About: ringkas, hanya info yang memang ada.
+    string BuildAboutText()
+    {
+        return "<size=46><b>" + gameName + "</b></size>\n\n" +
+               "Simulasi perakitan PC 3D untuk mengenal komponen komputer.\n\n" +
+               "Pasang setiap komponen di tempat yang benar, ikuti urutan perakitan, lalu nyalakan sistemnya.\n\n" +
+               "<size=20><color=#00E5FF><cspace=8>DIKEMBANGKAN OLEH</cspace></color></size>\n" +
+               "Levizera Sylomita Passah\n" +
+               "Tiffany Patricia Laurelle Pondaag\n" +
+               "Michelle Sumuweng";
     }
 
     void Update()
@@ -346,7 +395,7 @@ public class MainMenuController : MonoBehaviour
             if (Input.GetKeyDown(KeyCode.Return) || Input.GetKeyDown(KeyCode.KeypadEnter) || Input.GetKeyDown(KeyCode.Space))
                 if (selected >= 0) Activate(selected);
         }
-        else if (state == State.Settings || state == State.About)
+        else if (state == State.Settings || state == State.About || state == State.Levels)
         {
             if (Input.GetKeyDown(KeyCode.Escape) || Input.GetKeyDown(KeyCode.Backspace)) Back();
         }
@@ -463,20 +512,23 @@ public class MainMenuController : MonoBehaviour
         busy = false;
     }
 
-    IEnumerator PlayRoutine()
+    IEnumerator PlayRoutine(string sceneName)
     {
-        if (!Application.CanStreamedLevelBeLoaded(playScene))
+        if (!Application.CanStreamedLevelBeLoaded(sceneName))
         {
-            Debug.LogError("MainMenu: scene '" + playScene + "' tidak ada di Build Settings.");
+            Debug.LogError("MainMenu: scene '" + sceneName + "' tidak ada di Build Settings.");
             yield break;
         }
         busy = true; state = State.Loading;
         SetInteractive(menuGroup, false);
-        if (fadeGroup != null) fadeGroup.blocksRaycasts = true;
+        // Panel Level Select dibuat belakangan sehingga tergambar di atas layar hitam. Sembunyikan dulu,
+        // dan pastikan layar hitam + teks loading ada paling depan, supaya tidak ada UI yang bertumpuk.
+        if (levelsGroup != null) { SetInteractive(levelsGroup, false); StartCoroutine(FadeGroup(levelsGroup, 0f, 0.3f, 0f)); }
+        if (fadeGroup != null) { fadeGroup.transform.SetAsLastSibling(); fadeGroup.blocksRaycasts = true; }
         StartCoroutine(FadeMusic(0f, 0.9f));
         yield return FadeGroup(fadeGroup, 1f, 0.9f, 0f);
         if (loadingText != null) loadingText.alpha = 1f;
-        AsyncOperation op = SceneManager.LoadSceneAsync(playScene);
+        AsyncOperation op = SceneManager.LoadSceneAsync(sceneName);
         while (op != null && !op.isDone) yield return null;
     }
 
